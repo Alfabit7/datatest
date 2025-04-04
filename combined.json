@@ -331,5 +331,42 @@
         "market_cap": 62623964793
       }
     }
+  },
+  {
+    "timestamp": "2025-04-04T18:45:44.113695",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83835.5,
+        "volume": 353676.62,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 122.05,
+        "volume": 36551572.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83866.7,
+        "volume": 175850.859,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 122.1,
+        "volume": 20284479.0,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83912,
+        "market_cap": 1665256880269
+      },
+      "solana": {
+        "price": 121.92,
+        "market_cap": 62623964793
+      }
+    }
   }
 ]
