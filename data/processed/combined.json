@@ -1,0 +1,8697 @@
+[
+  {
+    "timestamp": "2025-04-04T17:27:06.330540",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83461.2,
+        "volume": 334167.752,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 121.28,
+        "volume": 34848395.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83506.2,
+        "volume": 163639.517,
+        "funding_rate": 1.529e-05
+      },
+      "SOLUSDT": {
+        "price": 121.2,
+        "volume": 19195978.0,
+        "funding_rate": 6.765e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83393,
+        "market_cap": 1654517992319
+      },
+      "solana": {
+        "price": 120.96,
+        "market_cap": 62205509662
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T17:28:17.583126",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83545.9,
+        "volume": 334311.204,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 121.59,
+        "volume": 34904639.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83518.5,
+        "volume": 163885.221,
+        "funding_rate": 1.624e-05
+      },
+      "SOLUSDT": {
+        "price": 121.55,
+        "volume": 19237356.7,
+        "funding_rate": 6.943e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83471,
+        "market_cap": 1654517992319
+      },
+      "solana": {
+        "price": 121.14,
+        "market_cap": 62205509662
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T17:29:26.785758",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83464.9,
+        "volume": 334458.848,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 121.57,
+        "volume": 34935053.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83478.5,
+        "volume": 163944.516,
+        "funding_rate": 1.669e-05
+      },
+      "SOLUSDT": {
+        "price": 121.56,
+        "volume": 19269892.3,
+        "funding_rate": 6.872e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83505,
+        "market_cap": 1654517992319
+      },
+      "solana": {
+        "price": 121.21,
+        "market_cap": 62205509662
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T17:30:35.463492",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83378.0,
+        "volume": 334525.696,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 121.33,
+        "volume": 34959486.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83358.2,
+        "volume": 164079.942,
+        "funding_rate": 1.576e-05
+      },
+      "SOLUSDT": {
+        "price": 121.29,
+        "volume": 19292646.1,
+        "funding_rate": 6.554e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83511,
+        "market_cap": 1657241153153
+      },
+      "solana": {
+        "price": 121.28,
+        "market_cap": 62391374715
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T17:31:45.000622",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83296.2,
+        "volume": 334556.843,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 121.81,
+        "volume": 35011447.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83298.0,
+        "volume": 164256.791,
+        "funding_rate": 1.713e-05
+      },
+      "SOLUSDT": {
+        "price": 121.82,
+        "volume": 19336920.2,
+        "funding_rate": 6.961e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83485,
+        "market_cap": 1657241153153
+      },
+      "solana": {
+        "price": 121.35,
+        "market_cap": 62391374715
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T17:32:53.664848",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83495.3,
+        "volume": 334947.464,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 121.88,
+        "volume": 35088577.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83473.7,
+        "volume": 164489.932,
+        "funding_rate": 1.76e-05
+      },
+      "SOLUSDT": {
+        "price": 122.14,
+        "volume": 19395608.3,
+        "funding_rate": 6.76e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83444,
+        "market_cap": 1657241153153
+      },
+      "solana": {
+        "price": 121.33,
+        "market_cap": 62391374715
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T18:42:16.603160",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83965.9,
+        "volume": 353598.216,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 121.68,
+        "volume": 36335341.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83964.6,
+        "volume": 176083.288,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 121.62,
+        "volume": 20216226.3,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83901,
+        "market_cap": 1665256880269
+      },
+      "solana": {
+        "price": 121.75,
+        "market_cap": 62739196814
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T18:43:25.565433",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83843.0,
+        "volume": 353700.924,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 122.17,
+        "volume": 36563943.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83885.3,
+        "volume": 176206.943,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 122.2,
+        "volume": 20319632.1,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83906,
+        "market_cap": 1665256880269
+      },
+      "solana": {
+        "price": 121.7,
+        "market_cap": 62623964793
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T18:44:34.608494",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83883.6,
+        "volume": 353663.865,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 122.02,
+        "volume": 36569795.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83902.3,
+        "volume": 175781.135,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 121.94,
+        "volume": 20272890.0,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83936,
+        "market_cap": 1665256880269
+      },
+      "solana": {
+        "price": 121.79,
+        "market_cap": 62623964793
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T18:45:44.113695",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83835.5,
+        "volume": 353676.62,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 122.05,
+        "volume": 36551572.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83866.7,
+        "volume": 175850.859,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 122.1,
+        "volume": 20284479.0,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83912,
+        "market_cap": 1665256880269
+      },
+      "solana": {
+        "price": 121.92,
+        "market_cap": 62623964793
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T18:46:52.781583",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83907.4,
+        "volume": 353682.51,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 122.0,
+        "volume": 36520227.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83935.8,
+        "volume": 175804.777,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 122.05,
+        "volume": 20267960.0,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83843,
+        "market_cap": 1665392100475
+      },
+      "solana": {
+        "price": 121.83,
+        "market_cap": 62672170379
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T18:48:01.456071",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84127.5,
+        "volume": 353985.537,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 122.38,
+        "volume": 36464650.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84184.0,
+        "volume": 176229.944,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 122.46,
+        "volume": 20259519.5,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83825,
+        "market_cap": 1665392100475
+      },
+      "solana": {
+        "price": 121.92,
+        "market_cap": 62672170379
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T18:49:11.370379",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84143.9,
+        "volume": 353854.518,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 122.38,
+        "volume": 36436303.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84165.2,
+        "volume": 176346.098,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 122.35,
+        "volume": 20233498.4,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83883,
+        "market_cap": 1665392100475
+      },
+      "solana": {
+        "price": 122.1,
+        "market_cap": 62672170379
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T18:50:20.538033",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84006.1,
+        "volume": 353739.752,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 122.07,
+        "volume": 36427905.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84025.9,
+        "volume": 176022.42,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 122.07,
+        "volume": 20170189.6,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84051,
+        "market_cap": 1665392100475
+      },
+      "solana": {
+        "price": 122.19,
+        "market_cap": 62672170379
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T18:51:30.202166",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84155.2,
+        "volume": 353532.225,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 122.3,
+        "volume": 36406946.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84141.2,
+        "volume": 176152.066,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 122.25,
+        "volume": 20179608.7,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84127,
+        "market_cap": 1665392100475
+      },
+      "solana": {
+        "price": 122.24,
+        "market_cap": 62672170379
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T18:52:40.052177",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84239.9,
+        "volume": 353676.221,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 122.26,
+        "volume": 36388341.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84277.8,
+        "volume": 176359.863,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 122.31,
+        "volume": 20123008.5,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84071,
+        "market_cap": 1669310680834
+      },
+      "solana": {
+        "price": 122.19,
+        "market_cap": 62859310088
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T18:53:48.761395",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84151.8,
+        "volume": 353689.985,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 122.18,
+        "volume": 36368444.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84129.4,
+        "volume": 175669.014,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 122.07,
+        "volume": 20113405.7,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84137,
+        "market_cap": 1669310680834
+      },
+      "solana": {
+        "price": 122.26,
+        "market_cap": 62859310088
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T18:54:58.383636",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84107.5,
+        "volume": 353848.887,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 121.99,
+        "volume": 36352586.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84097.9,
+        "volume": 175680.504,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 121.94,
+        "volume": 20120987.4,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84171,
+        "market_cap": 1669310680834
+      },
+      "solana": {
+        "price": 122.33,
+        "market_cap": 62859310088
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T18:56:08.802463",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84048.3,
+        "volume": 353764.128,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 121.85,
+        "volume": 36306541.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84116.3,
+        "volume": 175658.883,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 121.85,
+        "volume": 20096097.8,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84152,
+        "market_cap": 1669310680834
+      },
+      "solana": {
+        "price": 122.27,
+        "market_cap": 62859310088
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T20:55:16.362622",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84230.2,
+        "volume": 360581.714,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.77,
+        "volume": 36619197.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84229.9,
+        "volume": 180879.024,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.79,
+        "volume": 20394752.9,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84151,
+        "market_cap": 1668736410503
+      },
+      "solana": {
+        "price": 123.66,
+        "market_cap": 63593157947
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T20:56:26.142039",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84232.7,
+        "volume": 360426.764,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.64,
+        "volume": 36577417.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84229.0,
+        "volume": 180901.526,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.64,
+        "volume": 20403391.8,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84195,
+        "market_cap": 1668736410503
+      },
+      "solana": {
+        "price": 123.77,
+        "market_cap": 63593157947
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T20:56:54.620126",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84238.0,
+        "volume": 360517.089,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.6,
+        "volume": 36581458.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84243.4,
+        "volume": 180936.332,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.63,
+        "volume": 20354239.1,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84296,
+        "market_cap": 1671108563161
+      },
+      "solana": {
+        "price": 123.86,
+        "market_cap": 63671652941
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T20:58:04.118344",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84179.3,
+        "volume": 360408.851,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.4,
+        "volume": 36575455.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84175.4,
+        "volume": 180984.845,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.4,
+        "volume": 20367432.3,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84281,
+        "market_cap": 1671108563161
+      },
+      "solana": {
+        "price": 123.86,
+        "market_cap": 63671652941
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T20:59:13.739737",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84132.6,
+        "volume": 360445.002,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.27,
+        "volume": 36577557.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84135.0,
+        "volume": 181109.458,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.27,
+        "volume": 20360377.2,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84270,
+        "market_cap": 1671108563161
+      },
+      "solana": {
+        "price": 123.75,
+        "market_cap": 63671652941
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:00:23.600363",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84134.1,
+        "volume": 360441.363,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.4,
+        "volume": 36578440.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84119.3,
+        "volume": 181143.348,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.39,
+        "volume": 20366113.8,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84249,
+        "market_cap": 1671108563161
+      },
+      "solana": {
+        "price": 123.68,
+        "market_cap": 63671652941
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:01:32.730175",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84033.9,
+        "volume": 360696.748,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.26,
+        "volume": 36582725.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84040.0,
+        "volume": 180615.762,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.26,
+        "volume": 20360031.8,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84217,
+        "market_cap": 1671108563161
+      },
+      "solana": {
+        "price": 123.57,
+        "market_cap": 63571577505
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:02:42.759906",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84033.9,
+        "volume": 360741.065,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.3,
+        "volume": 36585758.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84050.1,
+        "volume": 180646.637,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.31,
+        "volume": 20355429.0,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84145,
+        "market_cap": 1671350528836
+      },
+      "solana": {
+        "price": 123.56,
+        "market_cap": 63571577505
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:03:51.488332",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84040.1,
+        "volume": 360669.027,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.2,
+        "volume": 36585232.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84013.6,
+        "volume": 180682.901,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.21,
+        "volume": 20355605.9,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84045,
+        "market_cap": 1671350528836
+      },
+      "solana": {
+        "price": 123.43,
+        "market_cap": 63571577505
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:05:01.282994",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84013.6,
+        "volume": 360778.31,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.23,
+        "volume": 36578282.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84021.8,
+        "volume": 180501.094,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.23,
+        "volume": 20354808.1,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84039,
+        "market_cap": 1671350528836
+      },
+      "solana": {
+        "price": 123.42,
+        "market_cap": 63571577505
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:06:11.667095",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84013.7,
+        "volume": 360652.081,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.22,
+        "volume": 36576397.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84026.2,
+        "volume": 180084.158,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.22,
+        "volume": 20353559.4,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84013,
+        "market_cap": 1671350528836
+      },
+      "solana": {
+        "price": 123.37,
+        "market_cap": 63571577505
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:07:21.637178",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84080.3,
+        "volume": 360252.218,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.34,
+        "volume": 36536480.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84094.0,
+        "volume": 180140.904,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.35,
+        "volume": 20346411.7,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83997,
+        "market_cap": 1667135112497
+      },
+      "solana": {
+        "price": 123.34,
+        "market_cap": 63453444397
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:08:30.398899",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84146.4,
+        "volume": 360289.631,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.45,
+        "volume": 36539311.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84209.9,
+        "volume": 180113.091,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.49,
+        "volume": 20323985.0,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83997,
+        "market_cap": 1667135112497
+      },
+      "solana": {
+        "price": 123.34,
+        "market_cap": 63453444397
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:09:40.257411",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84190.0,
+        "volume": 360398.077,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.48,
+        "volume": 36537007.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84196.5,
+        "volume": 180100.909,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.51,
+        "volume": 20329943.4,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84076,
+        "market_cap": 1667135112497
+      },
+      "solana": {
+        "price": 123.53,
+        "market_cap": 63453444397
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:10:48.965022",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84252.6,
+        "volume": 360522.71,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.68,
+        "volume": 36547479.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84236.6,
+        "volume": 180176.389,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.68,
+        "volume": 20333567.6,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84241,
+        "market_cap": 1667135112497
+      },
+      "solana": {
+        "price": 123.53,
+        "market_cap": 63453444397
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:12:24.233784",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84213.0,
+        "volume": 360464.382,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.61,
+        "volume": 36525775.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84214.5,
+        "volume": 180080.297,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.6,
+        "volume": 20332065.7,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84232,
+        "market_cap": 1671691253735
+      },
+      "solana": {
+        "price": 123.7,
+        "market_cap": 63627740689
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:15:01.483410",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84147.6,
+        "volume": 360468.18,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.38,
+        "volume": 36510652.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84146.7,
+        "volume": 180038.391,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.39,
+        "volume": 20315288.4,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84216,
+        "market_cap": 1671691253735
+      },
+      "solana": {
+        "price": 123.69,
+        "market_cap": 63627740689
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:16:10.948339",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84200.0,
+        "volume": 360325.044,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.36,
+        "volume": 36510153.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84192.2,
+        "volume": 179936.654,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.33,
+        "volume": 20314923.2,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84174,
+        "market_cap": 1671691253735
+      },
+      "solana": {
+        "price": 123.56,
+        "market_cap": 63627740689
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:17:21.053917",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84172.9,
+        "volume": 360309.887,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.27,
+        "volume": 36511107.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84173.0,
+        "volume": 179919.923,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.28,
+        "volume": 20319027.3,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84184,
+        "market_cap": 1670581786915
+      },
+      "solana": {
+        "price": 123.5,
+        "market_cap": 63627740689
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:18:30.731584",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84154.9,
+        "volume": 360091.255,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.23,
+        "volume": 36503390.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84148.3,
+        "volume": 179724.031,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.23,
+        "volume": 20304838.6,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84175,
+        "market_cap": 1670581786915
+      },
+      "solana": {
+        "price": 123.47,
+        "market_cap": 63533056424
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:19:40.960338",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84085.0,
+        "volume": 360169.839,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.17,
+        "volume": 36498131.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84096.8,
+        "volume": 179694.702,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.21,
+        "volume": 20299337.7,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84173,
+        "market_cap": 1670581786915
+      },
+      "solana": {
+        "price": 123.41,
+        "market_cap": 63533056424
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-04T21:20:49.747938",
+    "binance": {
+      "BTCUSDT": {
+        "price": 84069.9,
+        "volume": 360228.37,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 123.19,
+        "volume": 36499632.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 84075.3,
+        "volume": 179746.12,
+        "funding_rate": 0.0001
+      },
+      "SOLUSDT": {
+        "price": 123.18,
+        "volume": 20295528.3,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 84161,
+        "market_cap": 1670581786915
+      },
+      "solana": {
+        "price": 123.33,
+        "market_cap": 63533056424
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:06:00.375732",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83374.5,
+        "volume": 251878.532,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 120.0,
+        "volume": 27814838.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83382.0,
+        "volume": 125306.231,
+        "funding_rate": 5.412e-05
+      },
+      "SOLUSDT": {
+        "price": 120.01,
+        "volume": 15914122.8,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83429,
+        "market_cap": 1655557121183
+      },
+      "solana": {
+        "price": 120.17,
+        "market_cap": 61830727126
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:07:09.312182",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83403.9,
+        "volume": 251141.211,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 120.0,
+        "volume": 27776472.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83411.1,
+        "volume": 125161.838,
+        "funding_rate": 5.45e-05
+      },
+      "SOLUSDT": {
+        "price": 120.0,
+        "volume": 15906513.4,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83438,
+        "market_cap": 1655557121183
+      },
+      "solana": {
+        "price": 120.21,
+        "market_cap": 61830727126
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:08:18.989200",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83434.5,
+        "volume": 250775.341,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 120.12,
+        "volume": 27754696.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83442.7,
+        "volume": 124995.172,
+        "funding_rate": 5.513e-05
+      },
+      "SOLUSDT": {
+        "price": 120.14,
+        "volume": 15888040.2,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83416,
+        "market_cap": 1655557121183
+      },
+      "solana": {
+        "price": 120.15,
+        "market_cap": 61830727126
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:09:28.604043",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83495.0,
+        "volume": 250559.11,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 120.23,
+        "volume": 27759916.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83497.1,
+        "volume": 124909.788,
+        "funding_rate": 5.59e-05
+      },
+      "SOLUSDT": {
+        "price": 120.19,
+        "volume": 15896831.6,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83425,
+        "market_cap": 1655557121183
+      },
+      "solana": {
+        "price": 120.13,
+        "market_cap": 61830727126
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:10:38.119916",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83475.0,
+        "volume": 250366.085,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 120.24,
+        "volume": 27745863.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83480.6,
+        "volume": 124928.341,
+        "funding_rate": 5.546e-05
+      },
+      "SOLUSDT": {
+        "price": 120.26,
+        "volume": 15879364.5,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83427,
+        "market_cap": 1655557121183
+      },
+      "solana": {
+        "price": 120.15,
+        "market_cap": 61830727126
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:11:47.544726",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83467.7,
+        "volume": 250080.891,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 120.16,
+        "volume": 27718974.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83472.5,
+        "volume": 124719.838,
+        "funding_rate": 5.581e-05
+      },
+      "SOLUSDT": {
+        "price": 120.16,
+        "volume": 15863812.0,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83492,
+        "market_cap": 1655557121183
+      },
+      "solana": {
+        "price": 120.25,
+        "market_cap": 61830727126
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:12:56.054899",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83470.1,
+        "volume": 249909.11,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 120.18,
+        "volume": 27692205.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83480.0,
+        "volume": 124679.976,
+        "funding_rate": 5.596e-05
+      },
+      "SOLUSDT": {
+        "price": 120.21,
+        "volume": 15856453.8,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83476,
+        "market_cap": 1655557121183
+      },
+      "solana": {
+        "price": 120.23,
+        "market_cap": 61830727126
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:14:05.576509",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83484.7,
+        "volume": 249447.133,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 120.04,
+        "volume": 27662016.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83490.1,
+        "volume": 124553.502,
+        "funding_rate": 5.699e-05
+      },
+      "SOLUSDT": {
+        "price": 120.08,
+        "volume": 15849775.2,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83486,
+        "market_cap": 1655557121183
+      },
+      "solana": {
+        "price": 120.21,
+        "market_cap": 61830727126
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:15:15.048842",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83489.5,
+        "volume": 249341.553,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 120.08,
+        "volume": 27612543.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83489.1,
+        "volume": 124363.017,
+        "funding_rate": 5.731e-05
+      },
+      "SOLUSDT": {
+        "price": 120.11,
+        "volume": 15854365.3,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83490,
+        "market_cap": 1655557121183
+      },
+      "solana": {
+        "price": 120.22,
+        "market_cap": 61830727126
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:16:24.727658",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83475.8,
+        "volume": 248913.796,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.95,
+        "volume": 27588205.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83482.1,
+        "volume": 124378.258,
+        "funding_rate": 5.791e-05
+      },
+      "SOLUSDT": {
+        "price": 119.96,
+        "volume": 15858645.9,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83501,
+        "market_cap": 1655557121183
+      },
+      "solana": {
+        "price": 120.21,
+        "market_cap": 61830727126
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:17:33.669172",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83473.6,
+        "volume": 248679.829,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.93,
+        "volume": 27575543.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83472.8,
+        "volume": 124234.71,
+        "funding_rate": 5.849e-05
+      },
+      "SOLUSDT": {
+        "price": 119.97,
+        "volume": 15785560.2,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83496,
+        "market_cap": 1657222106333
+      },
+      "solana": {
+        "price": 120.21,
+        "market_cap": 61830727126
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:18:42.396395",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83493.1,
+        "volume": 248584.658,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 120.07,
+        "volume": 27559290.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83492.1,
+        "volume": 124119.205,
+        "funding_rate": 5.826e-05
+      },
+      "SOLUSDT": {
+        "price": 120.1,
+        "volume": 15760412.3,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83492,
+        "market_cap": 1657222106333
+      },
+      "solana": {
+        "price": 120.18,
+        "market_cap": 61830727126
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:19:52.005430",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83516.8,
+        "volume": 248344.803,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 120.18,
+        "volume": 27499682.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83522.1,
+        "volume": 124088.153,
+        "funding_rate": 5.857e-05
+      },
+      "SOLUSDT": {
+        "price": 120.18,
+        "volume": 15751507.1,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83498,
+        "market_cap": 1657222106333
+      },
+      "solana": {
+        "price": 120.07,
+        "market_cap": 61799105818
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:21:01.484386",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83398.4,
+        "volume": 247938.32,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.77,
+        "volume": 27456772.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83404.0,
+        "volume": 123989.096,
+        "funding_rate": 5.877e-05
+      },
+      "SOLUSDT": {
+        "price": 119.77,
+        "volume": 15753785.1,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83509,
+        "market_cap": 1657222106333
+      },
+      "solana": {
+        "price": 120.09,
+        "market_cap": 61799105818
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:22:11.874142",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83390.4,
+        "volume": 247637.022,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.87,
+        "volume": 27444105.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83416.1,
+        "volume": 123865.74,
+        "funding_rate": 5.849e-05
+      },
+      "SOLUSDT": {
+        "price": 119.95,
+        "volume": 15749654.9,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83516,
+        "market_cap": 1657222106333
+      },
+      "solana": {
+        "price": 120.12,
+        "market_cap": 61799105818
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:23:21.448776",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83418.6,
+        "volume": 247539.997,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.9,
+        "volume": 27425710.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83422.0,
+        "volume": 123877.652,
+        "funding_rate": 5.86e-05
+      },
+      "SOLUSDT": {
+        "price": 119.89,
+        "volume": 15709140.9,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83460,
+        "market_cap": 1657128113295
+      },
+      "solana": {
+        "price": 120.02,
+        "market_cap": 61799105818
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:24:30.904245",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83439.2,
+        "volume": 247433.349,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 120.04,
+        "volume": 27396864.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83444.6,
+        "volume": 123714.757,
+        "funding_rate": 5.789e-05
+      },
+      "SOLUSDT": {
+        "price": 120.04,
+        "volume": 15715065.7,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83399,
+        "market_cap": 1657128113295
+      },
+      "solana": {
+        "price": 119.89,
+        "market_cap": 61744748965
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:25:40.698749",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83400.1,
+        "volume": 247324.05,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.89,
+        "volume": 27388458.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83403.8,
+        "volume": 123601.937,
+        "funding_rate": 5.8e-05
+      },
+      "SOLUSDT": {
+        "price": 119.87,
+        "volume": 15687489.6,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83413,
+        "market_cap": 1657128113295
+      },
+      "solana": {
+        "price": 119.94,
+        "market_cap": 61744748965
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:26:50.383706",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83405.9,
+        "volume": 247077.056,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.9,
+        "volume": 27369429.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83412.2,
+        "volume": 123516.494,
+        "funding_rate": 5.778e-05
+      },
+      "SOLUSDT": {
+        "price": 119.89,
+        "volume": 15671497.8,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83421,
+        "market_cap": 1657128113295
+      },
+      "solana": {
+        "price": 119.97,
+        "market_cap": 61744748965
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:28:00.025588",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83414.1,
+        "volume": 246892.244,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.87,
+        "volume": 27353729.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83417.4,
+        "volume": 123410.871,
+        "funding_rate": 5.752e-05
+      },
+      "SOLUSDT": {
+        "price": 119.85,
+        "volume": 15664517.4,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83433,
+        "market_cap": 1655910437980
+      },
+      "solana": {
+        "price": 119.96,
+        "market_cap": 61744748965
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:29:09.489128",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83396.0,
+        "volume": 246074.809,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.74,
+        "volume": 27338569.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83402.2,
+        "volume": 123324.568,
+        "funding_rate": 5.759e-05
+      },
+      "SOLUSDT": {
+        "price": 119.72,
+        "volume": 15669679.8,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83414,
+        "market_cap": 1655910437980
+      },
+      "solana": {
+        "price": 119.93,
+        "market_cap": 61729356272
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:30:19.343110",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83398.2,
+        "volume": 245926.287,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.79,
+        "volume": 27321113.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83402.3,
+        "volume": 120173.894,
+        "funding_rate": 5.761e-05
+      },
+      "SOLUSDT": {
+        "price": 119.78,
+        "volume": 15666602.7,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83419,
+        "market_cap": 1655910437980
+      },
+      "solana": {
+        "price": 119.91,
+        "market_cap": 61729356272
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:31:28.220288",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83416.1,
+        "volume": 242053.806,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.82,
+        "volume": 27034856.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83418.8,
+        "volume": 120198.32,
+        "funding_rate": 5.747e-05
+      },
+      "SOLUSDT": {
+        "price": 119.79,
+        "volume": 15419926.8,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83406,
+        "market_cap": 1655910437980
+      },
+      "solana": {
+        "price": 119.88,
+        "market_cap": 61729356272
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:32:37.606124",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83399.1,
+        "volume": 240705.158,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.73,
+        "volume": 26940554.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83400.0,
+        "volume": 118826.062,
+        "funding_rate": 5.77e-05
+      },
+      "SOLUSDT": {
+        "price": 119.7,
+        "volume": 15367880.6,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83412,
+        "market_cap": 1655370626700
+      },
+      "solana": {
+        "price": 119.88,
+        "market_cap": 61729356272
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:33:47.117347",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83394.0,
+        "volume": 239794.663,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.43,
+        "volume": 26928225.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83388.5,
+        "volume": 118530.986,
+        "funding_rate": 5.728e-05
+      },
+      "SOLUSDT": {
+        "price": 119.4,
+        "volume": 15415425.2,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83423,
+        "market_cap": 1655370626700
+      },
+      "solana": {
+        "price": 119.9,
+        "market_cap": 61729356272
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:34:55.864949",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83351.6,
+        "volume": 239060.912,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.41,
+        "volume": 26889091.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83359.6,
+        "volume": 118297.465,
+        "funding_rate": 5.701e-05
+      },
+      "SOLUSDT": {
+        "price": 119.39,
+        "volume": 15428323.0,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83410,
+        "market_cap": 1655370626700
+      },
+      "solana": {
+        "price": 119.88,
+        "market_cap": 61699727895
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:36:04.720235",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83388.1,
+        "volume": 237460.232,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.45,
+        "volume": 26805262.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83398.8,
+        "volume": 117973.59,
+        "funding_rate": 5.795e-05
+      },
+      "SOLUSDT": {
+        "price": 119.48,
+        "volume": 15347604.2,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83379,
+        "market_cap": 1655370626700
+      },
+      "solana": {
+        "price": 119.84,
+        "market_cap": 61699727895
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:37:14.371236",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83296.1,
+        "volume": 237430.111,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.51,
+        "volume": 26745641.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83312.4,
+        "volume": 117703.614,
+        "funding_rate": 5.819e-05
+      },
+      "SOLUSDT": {
+        "price": 119.47,
+        "volume": 15310227.7,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83372,
+        "market_cap": 1654584727856
+      },
+      "solana": {
+        "price": 119.67,
+        "market_cap": 61699727895
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:38:23.328424",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83266.9,
+        "volume": 237318.76,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.4,
+        "volume": 26702779.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83272.6,
+        "volume": 117765.357,
+        "funding_rate": 5.938e-05
+      },
+      "SOLUSDT": {
+        "price": 119.36,
+        "volume": 15227393.7,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83335,
+        "market_cap": 1654584727856
+      },
+      "solana": {
+        "price": 119.62,
+        "market_cap": 61557152600
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:39:32.834975",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83312.3,
+        "volume": 236790.423,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.44,
+        "volume": 26651158.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83311.7,
+        "volume": 117223.205,
+        "funding_rate": 5.951e-05
+      },
+      "SOLUSDT": {
+        "price": 119.43,
+        "volume": 15232170.4,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83322,
+        "market_cap": 1654584727856
+      },
+      "solana": {
+        "price": 119.57,
+        "market_cap": 61557152600
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:40:42.473920",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83227.0,
+        "volume": 236676.201,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.3,
+        "volume": 26630520.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83236.9,
+        "volume": 117179.884,
+        "funding_rate": 5.994e-05
+      },
+      "SOLUSDT": {
+        "price": 119.33,
+        "volume": 15204533.5,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83315,
+        "market_cap": 1654584727856
+      },
+      "solana": {
+        "price": 119.55,
+        "market_cap": 61557152600
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:41:51.898306",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83169.7,
+        "volume": 236834.825,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.16,
+        "volume": 26633528.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83178.4,
+        "volume": 117392.377,
+        "funding_rate": 6.066e-05
+      },
+      "SOLUSDT": {
+        "price": 119.12,
+        "volume": 15157378.7,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83296,
+        "market_cap": 1654584727856
+      },
+      "solana": {
+        "price": 119.5,
+        "market_cap": 61557152600
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:43:01.477362",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83220.2,
+        "volume": 236962.944,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.26,
+        "volume": 26585193.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83226.0,
+        "volume": 117131.229,
+        "funding_rate": 6.17e-05
+      },
+      "SOLUSDT": {
+        "price": 119.26,
+        "volume": 15163410.4,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83274,
+        "market_cap": 1652899355570
+      },
+      "solana": {
+        "price": 119.42,
+        "market_cap": 61557152600
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:44:10.920787",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83182.0,
+        "volume": 236447.257,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.18,
+        "volume": 26553054.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83189.0,
+        "volume": 117091.253,
+        "funding_rate": 6.175e-05
+      },
+      "SOLUSDT": {
+        "price": 119.17,
+        "volume": 15086247.8,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83157,
+        "market_cap": 1652899355570
+      },
+      "solana": {
+        "price": 119.3,
+        "market_cap": 61374713583
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:45:20.732385",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83178.0,
+        "volume": 236204.592,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.12,
+        "volume": 26493759.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83190.3,
+        "volume": 117129.092,
+        "funding_rate": 6.276e-05
+      },
+      "SOLUSDT": {
+        "price": 119.05,
+        "volume": 15096321.1,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83169,
+        "market_cap": 1652899355570
+      },
+      "solana": {
+        "price": 119.29,
+        "market_cap": 61374713583
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:46:31.241465",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83175.3,
+        "volume": 235880.856,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.02,
+        "volume": 26475118.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83182.9,
+        "volume": 116783.274,
+        "funding_rate": 6.344e-05
+      },
+      "SOLUSDT": {
+        "price": 118.99,
+        "volume": 15040047.0,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83175,
+        "market_cap": 1652899355570
+      },
+      "solana": {
+        "price": 119.28,
+        "market_cap": 61374713583
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:47:41.497587",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83171.7,
+        "volume": 235659.904,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.05,
+        "volume": 26489299.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83180.7,
+        "volume": 116656.844,
+        "funding_rate": 6.399e-05
+      },
+      "SOLUSDT": {
+        "price": 119.02,
+        "volume": 15050857.1,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83181,
+        "market_cap": 1650802731461
+      },
+      "solana": {
+        "price": 119.27,
+        "market_cap": 61374713583
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:48:51.093900",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83125.1,
+        "volume": 235606.354,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.92,
+        "volume": 26486161.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83137.1,
+        "volume": 116665.357,
+        "funding_rate": 6.45e-05
+      },
+      "SOLUSDT": {
+        "price": 118.92,
+        "volume": 14999800.4,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83185,
+        "market_cap": 1650802731461
+      },
+      "solana": {
+        "price": 119.17,
+        "market_cap": 61327002260
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:49:59.902040",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83140.1,
+        "volume": 235938.555,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.89,
+        "volume": 26472757.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83132.8,
+        "volume": 116779.949,
+        "funding_rate": 6.511e-05
+      },
+      "SOLUSDT": {
+        "price": 118.8,
+        "volume": 15001120.6,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83185,
+        "market_cap": 1650802731461
+      },
+      "solana": {
+        "price": 119.12,
+        "market_cap": 61327002260
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:51:09.560047",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83138.8,
+        "volume": 235565.446,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.98,
+        "volume": 26411572.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83143.2,
+        "volume": 116870.53,
+        "funding_rate": 6.599e-05
+      },
+      "SOLUSDT": {
+        "price": 118.99,
+        "volume": 14992911.2,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83160,
+        "market_cap": 1650802731461
+      },
+      "solana": {
+        "price": 119.07,
+        "market_cap": 61327002260
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:52:19.252945",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83178.9,
+        "volume": 235299.982,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.1,
+        "volume": 26404548.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83179.8,
+        "volume": 116578.929,
+        "funding_rate": 6.674e-05
+      },
+      "SOLUSDT": {
+        "price": 119.14,
+        "volume": 15007342.6,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83134,
+        "market_cap": 1649945851595
+      },
+      "solana": {
+        "price": 119.0,
+        "market_cap": 61327002260
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:53:29.134116",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83184.2,
+        "volume": 235275.005,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.17,
+        "volume": 26406964.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83189.9,
+        "volume": 116403.752,
+        "funding_rate": 6.697e-05
+      },
+      "SOLUSDT": {
+        "price": 119.17,
+        "volume": 14994001.7,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83165,
+        "market_cap": 1649945851595
+      },
+      "solana": {
+        "price": 119.01,
+        "market_cap": 61327002260
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:54:38.640137",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83218.7,
+        "volume": 235251.601,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.1,
+        "volume": 26412691.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83244.7,
+        "volume": 116471.982,
+        "funding_rate": 6.753e-05
+      },
+      "SOLUSDT": {
+        "price": 119.11,
+        "volume": 14991074.3,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83174,
+        "market_cap": 1649945851595
+      },
+      "solana": {
+        "price": 119.05,
+        "market_cap": 61250291285
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:55:48.155861",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83194.1,
+        "volume": 235205.681,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.02,
+        "volume": 26413533.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83202.0,
+        "volume": 116384.714,
+        "funding_rate": 6.737e-05
+      },
+      "SOLUSDT": {
+        "price": 119.02,
+        "volume": 14980859.8,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83197,
+        "market_cap": 1649945851595
+      },
+      "solana": {
+        "price": 119.13,
+        "market_cap": 61250291285
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:56:57.593743",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83250.0,
+        "volume": 235114.937,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.1,
+        "volume": 26395667.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83264.8,
+        "volume": 116359.18,
+        "funding_rate": 6.73e-05
+      },
+      "SOLUSDT": {
+        "price": 119.15,
+        "volume": 14975525.2,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83219,
+        "market_cap": 1649945851595
+      },
+      "solana": {
+        "price": 119.13,
+        "market_cap": 61250291285
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:58:07.058593",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83233.5,
+        "volume": 234937.02,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.11,
+        "volume": 26371300.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83240.8,
+        "volume": 116400.015,
+        "funding_rate": 6.772e-05
+      },
+      "SOLUSDT": {
+        "price": 119.1,
+        "volume": 14972118.5,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83223,
+        "market_cap": 1651719441849
+      },
+      "solana": {
+        "price": 119.11,
+        "market_cap": 61250291285
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T12:59:15.670462",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83219.2,
+        "volume": 234877.826,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.07,
+        "volume": 26372343.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83223.7,
+        "volume": 116306.899,
+        "funding_rate": 6.786e-05
+      },
+      "SOLUSDT": {
+        "price": 119.04,
+        "volume": 14977964.6,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83265,
+        "market_cap": 1651719441849
+      },
+      "solana": {
+        "price": 119.16,
+        "market_cap": 61310427422
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:00:25.069861",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83295.2,
+        "volume": 234615.942,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.22,
+        "volume": 26373057.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83263.4,
+        "volume": 116026.949,
+        "funding_rate": 6.755e-05
+      },
+      "SOLUSDT": {
+        "price": 119.16,
+        "volume": 14958678.8,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83239,
+        "market_cap": 1651719441849
+      },
+      "solana": {
+        "price": 119.13,
+        "market_cap": 61310427422
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:01:33.741402",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83240.1,
+        "volume": 234260.016,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.03,
+        "volume": 26361073.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83245.5,
+        "volume": 116070.597,
+        "funding_rate": 6.764e-05
+      },
+      "SOLUSDT": {
+        "price": 119.01,
+        "volume": 14964148.3,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83248,
+        "market_cap": 1651719441849
+      },
+      "solana": {
+        "price": 119.09,
+        "market_cap": 61310427422
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:02:43.515286",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83270.3,
+        "volume": 233657.468,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.04,
+        "volume": 26339373.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83276.0,
+        "volume": 115496.73,
+        "funding_rate": 6.812e-05
+      },
+      "SOLUSDT": {
+        "price": 119.05,
+        "volume": 14912502.7,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83273,
+        "market_cap": 1652157495424
+      },
+      "solana": {
+        "price": 119.09,
+        "market_cap": 61285972623
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:03:53.435543",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83273.0,
+        "volume": 233076.262,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 119.06,
+        "volume": 26276479.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83288.9,
+        "volume": 115140.204,
+        "funding_rate": 6.858e-05
+      },
+      "SOLUSDT": {
+        "price": 119.05,
+        "volume": 14861412.8,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83260,
+        "market_cap": 1652157495424
+      },
+      "solana": {
+        "price": 119.07,
+        "market_cap": 61285972623
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:05:02.568320",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83259.8,
+        "volume": 231768.593,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.99,
+        "volume": 26156290.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83276.4,
+        "volume": 114983.037,
+        "funding_rate": 6.827e-05
+      },
+      "SOLUSDT": {
+        "price": 119.01,
+        "volume": 14836488.8,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83262,
+        "market_cap": 1652157495424
+      },
+      "solana": {
+        "price": 119.07,
+        "market_cap": 61285972623
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:06:13.123878",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83263.1,
+        "volume": 231452.437,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.96,
+        "volume": 26113706.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83274.4,
+        "volume": 114711.215,
+        "funding_rate": 6.807e-05
+      },
+      "SOLUSDT": {
+        "price": 118.96,
+        "volume": 14813776.8,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83272,
+        "market_cap": 1652157495424
+      },
+      "solana": {
+        "price": 119.06,
+        "market_cap": 61285972623
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:07:23.164356",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83220.3,
+        "volume": 231208.891,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.78,
+        "volume": 26087870.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83216.1,
+        "volume": 114593.793,
+        "funding_rate": 6.776e-05
+      },
+      "SOLUSDT": {
+        "price": 118.77,
+        "volume": 14802385.1,
+        "funding_rate": 0.0001
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83283,
+        "market_cap": 1652157495424
+      },
+      "solana": {
+        "price": 119.06,
+        "market_cap": 61285972623
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:08:32.830462",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83150.1,
+        "volume": 230867.398,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.68,
+        "volume": 26065199.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83146.2,
+        "volume": 114356.838,
+        "funding_rate": 6.772e-05
+      },
+      "SOLUSDT": {
+        "price": 118.68,
+        "volume": 14820832.5,
+        "funding_rate": 9.83e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83284,
+        "market_cap": 1652908338711
+      },
+      "solana": {
+        "price": 119.03,
+        "market_cap": 61252433011
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:09:42.232068",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83160.5,
+        "volume": 230557.755,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.73,
+        "volume": 26054817.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83171.7,
+        "volume": 114267.813,
+        "funding_rate": 6.782e-05
+      },
+      "SOLUSDT": {
+        "price": 118.71,
+        "volume": 14777667.5,
+        "funding_rate": 9.709e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83269,
+        "market_cap": 1652908338711
+      },
+      "solana": {
+        "price": 118.92,
+        "market_cap": 61252433011
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:10:50.908892",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83185.2,
+        "volume": 230260.871,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.76,
+        "volume": 26029040.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83179.8,
+        "volume": 114166.453,
+        "funding_rate": 6.762e-05
+      },
+      "SOLUSDT": {
+        "price": 118.69,
+        "volume": 14748906.5,
+        "funding_rate": 9.734e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83168,
+        "market_cap": 1652908338711
+      },
+      "solana": {
+        "price": 118.78,
+        "market_cap": 61252433011
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:12:01.134947",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83170.8,
+        "volume": 230025.991,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.67,
+        "volume": 25993224.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83168.9,
+        "volume": 114141.777,
+        "funding_rate": 6.76e-05
+      },
+      "SOLUSDT": {
+        "price": 118.63,
+        "volume": 14741212.1,
+        "funding_rate": 9.767e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83145,
+        "market_cap": 1652908338711
+      },
+      "solana": {
+        "price": 118.79,
+        "market_cap": 61252433011
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:13:12.096560",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83105.1,
+        "volume": 229744.831,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.54,
+        "volume": 25971568.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83100.0,
+        "volume": 114085.72,
+        "funding_rate": 6.755e-05
+      },
+      "SOLUSDT": {
+        "price": 118.54,
+        "volume": 14741091.5,
+        "funding_rate": 9.732e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83174,
+        "market_cap": 1650829866610
+      },
+      "solana": {
+        "price": 118.78,
+        "market_cap": 61118936344
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:14:22.983291",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83145.8,
+        "volume": 229629.89,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.57,
+        "volume": 25967578.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83126.2,
+        "volume": 114052.824,
+        "funding_rate": 6.727e-05
+      },
+      "SOLUSDT": {
+        "price": 118.54,
+        "volume": 14742590.9,
+        "funding_rate": 9.622e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83161,
+        "market_cap": 1650829866610
+      },
+      "solana": {
+        "price": 118.66,
+        "market_cap": 61118936344
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:15:32.659760",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83049.9,
+        "volume": 229943.885,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.4,
+        "volume": 26029697.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83055.8,
+        "volume": 114117.665,
+        "funding_rate": 6.691e-05
+      },
+      "SOLUSDT": {
+        "price": 118.41,
+        "volume": 14796314.6,
+        "funding_rate": 9.584e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83125,
+        "market_cap": 1650829866610
+      },
+      "solana": {
+        "price": 118.65,
+        "market_cap": 61118936344
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:16:41.397967",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83073.8,
+        "volume": 229677.198,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.46,
+        "volume": 25984388.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83082.8,
+        "volume": 113960.239,
+        "funding_rate": 6.643e-05
+      },
+      "SOLUSDT": {
+        "price": 118.41,
+        "volume": 14754562.1,
+        "funding_rate": 9.455e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83097,
+        "market_cap": 1650829866610
+      },
+      "solana": {
+        "price": 118.61,
+        "market_cap": 61118936344
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:17:50.112611",
+    "binance": {
+      "BTCUSDT": {
+        "price": 83020.6,
+        "volume": 229834.551,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.3,
+        "volume": 26009135.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 83038.8,
+        "volume": 114005.255,
+        "funding_rate": 6.663e-05
+      },
+      "SOLUSDT": {
+        "price": 118.38,
+        "volume": 14773670.9,
+        "funding_rate": 9.286e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83051,
+        "market_cap": 1649210529544
+      },
+      "solana": {
+        "price": 118.56,
+        "market_cap": 61118936344
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:18:59.085170",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82965.6,
+        "volume": 230081.444,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.35,
+        "volume": 26016408.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82980.0,
+        "volume": 114234.461,
+        "funding_rate": 6.677e-05
+      },
+      "SOLUSDT": {
+        "price": 118.32,
+        "volume": 14769629.5,
+        "funding_rate": 9.213e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 83036,
+        "market_cap": 1649210529544
+      },
+      "solana": {
+        "price": 118.52,
+        "market_cap": 61007864420
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:20:08.327501",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82917.6,
+        "volume": 230447.951,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.33,
+        "volume": 26042321.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82902.1,
+        "volume": 114315.681,
+        "funding_rate": 6.689e-05
+      },
+      "SOLUSDT": {
+        "price": 118.33,
+        "volume": 14788277.0,
+        "funding_rate": 9.029e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82970,
+        "market_cap": 1649210529544
+      },
+      "solana": {
+        "price": 118.43,
+        "market_cap": 61007864420
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:21:18.093769",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82809.9,
+        "volume": 231550.768,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.39,
+        "volume": 26064020.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82800.3,
+        "volume": 114668.207,
+        "funding_rate": 6.742e-05
+      },
+      "SOLUSDT": {
+        "price": 118.36,
+        "volume": 14800146.3,
+        "funding_rate": 9.004e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82957,
+        "market_cap": 1649210529544
+      },
+      "solana": {
+        "price": 118.42,
+        "market_cap": 61007864420
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:22:27.617583",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82700.1,
+        "volume": 231888.71,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.32,
+        "volume": 26075253.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82741.3,
+        "volume": 114753.034,
+        "funding_rate": 6.823e-05
+      },
+      "SOLUSDT": {
+        "price": 118.32,
+        "volume": 14773548.0,
+        "funding_rate": 9.037e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82887,
+        "market_cap": 1649210529544
+      },
+      "solana": {
+        "price": 118.39,
+        "market_cap": 61007864420
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:23:37.127162",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82668.5,
+        "volume": 232484.313,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.28,
+        "volume": 26080975.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82710.0,
+        "volume": 115262.419,
+        "funding_rate": 6.906e-05
+      },
+      "SOLUSDT": {
+        "price": 118.32,
+        "volume": 14790043.6,
+        "funding_rate": 9.031e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82736,
+        "market_cap": 1645055528217
+      },
+      "solana": {
+        "price": 118.15,
+        "market_cap": 60788608792
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:24:46.716162",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82716.9,
+        "volume": 232646.177,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.47,
+        "volume": 26086446.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82742.2,
+        "volume": 115232.533,
+        "funding_rate": 6.979e-05
+      },
+      "SOLUSDT": {
+        "price": 118.47,
+        "volume": 14784792.0,
+        "funding_rate": 9.046e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82724,
+        "market_cap": 1645055528217
+      },
+      "solana": {
+        "price": 118.1,
+        "market_cap": 60788608792
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:25:56.573106",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82728.0,
+        "volume": 232838.895,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.49,
+        "volume": 26101982.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82739.7,
+        "volume": 115335.699,
+        "funding_rate": 7.043e-05
+      },
+      "SOLUSDT": {
+        "price": 118.48,
+        "volume": 14782874.3,
+        "funding_rate": 8.989e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82665,
+        "market_cap": 1645055528217
+      },
+      "solana": {
+        "price": 118.15,
+        "market_cap": 60788608792
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:27:06.507248",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82768.0,
+        "volume": 232457.261,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.45,
+        "volume": 26089305.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82796.6,
+        "volume": 115429.54,
+        "funding_rate": 7.176e-05
+      },
+      "SOLUSDT": {
+        "price": 118.46,
+        "volume": 14783775.4,
+        "funding_rate": 9e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82686,
+        "market_cap": 1645055528217
+      },
+      "solana": {
+        "price": 118.19,
+        "market_cap": 60788608792
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:28:15.619644",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82727.0,
+        "volume": 231780.894,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.4,
+        "volume": 26089892.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82751.9,
+        "volume": 114632.353,
+        "funding_rate": 7.087e-05
+      },
+      "SOLUSDT": {
+        "price": 118.37,
+        "volume": 14763855.0,
+        "funding_rate": 8.833e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82744,
+        "market_cap": 1641912381468
+      },
+      "solana": {
+        "price": 118.28,
+        "market_cap": 60788608792
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:29:25.100740",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82783.2,
+        "volume": 231889.327,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.52,
+        "volume": 26089599.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82797.2,
+        "volume": 114753.61,
+        "funding_rate": 7.162e-05
+      },
+      "SOLUSDT": {
+        "price": 118.52,
+        "volume": 14735129.7,
+        "funding_rate": 8.617e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82743,
+        "market_cap": 1641912381468
+      },
+      "solana": {
+        "price": 118.28,
+        "market_cap": 60869021188
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:30:34.280459",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82756.8,
+        "volume": 231854.908,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.41,
+        "volume": 26101810.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82797.5,
+        "volume": 114923.033,
+        "funding_rate": 7.137e-05
+      },
+      "SOLUSDT": {
+        "price": 118.42,
+        "volume": 14745074.5,
+        "funding_rate": 8.393e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82765,
+        "market_cap": 1641912381468
+      },
+      "solana": {
+        "price": 118.33,
+        "market_cap": 60869021188
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:31:43.200089",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82849.4,
+        "volume": 231117.126,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.51,
+        "volume": 26100032.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82859.8,
+        "volume": 113729.856,
+        "funding_rate": 7.153e-05
+      },
+      "SOLUSDT": {
+        "price": 118.5,
+        "volume": 14749653.7,
+        "funding_rate": 8.446e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82776,
+        "market_cap": 1641912381468
+      },
+      "solana": {
+        "price": 118.33,
+        "market_cap": 60869021188
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:32:53.252250",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82773.7,
+        "volume": 230620.046,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.37,
+        "volume": 26096795.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82787.5,
+        "volume": 113902.589,
+        "funding_rate": 7.151e-05
+      },
+      "SOLUSDT": {
+        "price": 118.38,
+        "volume": 14690391.7,
+        "funding_rate": 8.445e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82827,
+        "market_cap": 1643361258440
+      },
+      "solana": {
+        "price": 118.38,
+        "market_cap": 60869021188
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:34:04.445607",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82798.0,
+        "volume": 229598.011,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.4,
+        "volume": 26003121.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82808.6,
+        "volume": 113552.942,
+        "funding_rate": 7.134e-05
+      },
+      "SOLUSDT": {
+        "price": 118.42,
+        "volume": 14614142.0,
+        "funding_rate": 8.442e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82831,
+        "market_cap": 1643361258440
+      },
+      "solana": {
+        "price": 118.41,
+        "market_cap": 60936630579
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:35:15.138823",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82782.1,
+        "volume": 228627.401,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.42,
+        "volume": 25934410.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82788.0,
+        "volume": 113657.022,
+        "funding_rate": 7.144e-05
+      },
+      "SOLUSDT": {
+        "price": 118.37,
+        "volume": 14501542.1,
+        "funding_rate": 8.434e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82826,
+        "market_cap": 1643361258440
+      },
+      "solana": {
+        "price": 118.38,
+        "market_cap": 60936630579
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:36:25.328050",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82732.9,
+        "volume": 228234.296,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.15,
+        "volume": 25918459.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82738.9,
+        "volume": 112573.98,
+        "funding_rate": 7.102e-05
+      },
+      "SOLUSDT": {
+        "price": 118.13,
+        "volume": 14507079.8,
+        "funding_rate": 8.302e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82820,
+        "market_cap": 1643361258440
+      },
+      "solana": {
+        "price": 118.44,
+        "market_cap": 60936630579
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:37:35.091043",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82712.5,
+        "volume": 227769.288,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.15,
+        "volume": 25921893.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82719.9,
+        "volume": 112687.279,
+        "funding_rate": 7.069e-05
+      },
+      "SOLUSDT": {
+        "price": 118.15,
+        "volume": 14482003.6,
+        "funding_rate": 8.303e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82778,
+        "market_cap": 1643124927493
+      },
+      "solana": {
+        "price": 118.36,
+        "market_cap": 60936630579
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:38:44.795839",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82690.1,
+        "volume": 227171.764,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.06,
+        "volume": 25921253.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82700.6,
+        "volume": 112105.292,
+        "funding_rate": 7.006e-05
+      },
+      "SOLUSDT": {
+        "price": 118.06,
+        "volume": 14442723.8,
+        "funding_rate": 8.27e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82734,
+        "market_cap": 1643124927493
+      },
+      "solana": {
+        "price": 118.33,
+        "market_cap": 60887630834
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:39:55.128714",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82742.1,
+        "volume": 226364.904,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.17,
+        "volume": 25904268.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82734.8,
+        "volume": 111941.392,
+        "funding_rate": 6.964e-05
+      },
+      "SOLUSDT": {
+        "price": 118.17,
+        "volume": 14410692.5,
+        "funding_rate": 8.152e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82719,
+        "market_cap": 1643124927493
+      },
+      "solana": {
+        "price": 118.24,
+        "market_cap": 60887630834
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:41:04.152512",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82698.1,
+        "volume": 225547.546,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.04,
+        "volume": 25838410.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82702.5,
+        "volume": 111780.809,
+        "funding_rate": 6.834e-05
+      },
+      "SOLUSDT": {
+        "price": 118.08,
+        "volume": 14381289.8,
+        "funding_rate": 8.06e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82732,
+        "market_cap": 1643124927493
+      },
+      "solana": {
+        "price": 118.25,
+        "market_cap": 60887630834
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:42:13.135601",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82647.0,
+        "volume": 225094.306,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.81,
+        "volume": 25875675.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82629.4,
+        "volume": 111651.762,
+        "funding_rate": 6.777e-05
+      },
+      "SOLUSDT": {
+        "price": 117.75,
+        "volume": 14394709.7,
+        "funding_rate": 7.909e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82724,
+        "market_cap": 1641903486521
+      },
+      "solana": {
+        "price": 118.21,
+        "market_cap": 60887630834
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:43:23.024604",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82610.0,
+        "volume": 225013.285,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.82,
+        "volume": 25921038.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82620.3,
+        "volume": 111882.382,
+        "funding_rate": 6.647e-05
+      },
+      "SOLUSDT": {
+        "price": 117.86,
+        "volume": 14425141.3,
+        "funding_rate": 7.72e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82691,
+        "market_cap": 1641903486521
+      },
+      "solana": {
+        "price": 118.21,
+        "market_cap": 60887630834
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:44:32.472423",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82601.5,
+        "volume": 224480.981,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.8,
+        "volume": 25935537.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82610.0,
+        "volume": 111918.9,
+        "funding_rate": 6.607e-05
+      },
+      "SOLUSDT": {
+        "price": 117.82,
+        "volume": 14436186.4,
+        "funding_rate": 7.709e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82637,
+        "market_cap": 1641903486521
+      },
+      "solana": {
+        "price": 118.03,
+        "market_cap": 60805705231
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:45:42.306523",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82569.5,
+        "volume": 224361.714,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.61,
+        "volume": 25958891.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82582.2,
+        "volume": 112031.226,
+        "funding_rate": 6.542e-05
+      },
+      "SOLUSDT": {
+        "price": 117.55,
+        "volume": 14412927.4,
+        "funding_rate": 7.58e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82621,
+        "market_cap": 1641903486521
+      },
+      "solana": {
+        "price": 118.03,
+        "market_cap": 60805705231
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:46:51.976000",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82501.5,
+        "volume": 224341.63,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.55,
+        "volume": 25938318.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82500.2,
+        "volume": 112149.222,
+        "funding_rate": 6.502e-05
+      },
+      "SOLUSDT": {
+        "price": 117.51,
+        "volume": 14378658.9,
+        "funding_rate": 7.61e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82604,
+        "market_cap": 1641903486521
+      },
+      "solana": {
+        "price": 117.97,
+        "market_cap": 60805705231
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:48:02.348673",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82580.5,
+        "volume": 224049.538,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.66,
+        "volume": 25871331.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82587.8,
+        "volume": 110813.741,
+        "funding_rate": 6.422e-05
+      },
+      "SOLUSDT": {
+        "price": 117.76,
+        "volume": 14374003.2,
+        "funding_rate": 7.578e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82512,
+        "market_cap": 1639136971411
+      },
+      "solana": {
+        "price": 117.93,
+        "market_cap": 60805705231
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:49:12.185128",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82580.0,
+        "volume": 222838.573,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.73,
+        "volume": 25846783.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82579.0,
+        "volume": 110651.925,
+        "funding_rate": 6.403e-05
+      },
+      "SOLUSDT": {
+        "price": 117.67,
+        "volume": 14371561.7,
+        "funding_rate": 7.609e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82528,
+        "market_cap": 1639136971411
+      },
+      "solana": {
+        "price": 117.85,
+        "market_cap": 60634199362
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:50:21.371577",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82481.8,
+        "volume": 222506.36,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.64,
+        "volume": 25846397.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82516.8,
+        "volume": 110839.822,
+        "funding_rate": 6.351e-05
+      },
+      "SOLUSDT": {
+        "price": 117.64,
+        "volume": 14343373.4,
+        "funding_rate": 7.491e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82557,
+        "market_cap": 1639136971411
+      },
+      "solana": {
+        "price": 117.9,
+        "market_cap": 60634199362
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:51:31.093821",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82488.1,
+        "volume": 222369.26,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.52,
+        "volume": 25829181.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82487.1,
+        "volume": 110351.023,
+        "funding_rate": 6.265e-05
+      },
+      "SOLUSDT": {
+        "price": 117.52,
+        "volume": 14347093.3,
+        "funding_rate": 7.478e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82545,
+        "market_cap": 1639136971411
+      },
+      "solana": {
+        "price": 117.83,
+        "market_cap": 60634199362
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:52:40.877542",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82557.1,
+        "volume": 222300.499,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.59,
+        "volume": 25838364.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82587.0,
+        "volume": 110487.189,
+        "funding_rate": 6.23e-05
+      },
+      "SOLUSDT": {
+        "price": 117.61,
+        "volume": 14343765.5,
+        "funding_rate": 7.522e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82532,
+        "market_cap": 1638124133119
+      },
+      "solana": {
+        "price": 117.77,
+        "market_cap": 60634199362
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:53:49.711593",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82541.9,
+        "volume": 222317.305,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.61,
+        "volume": 25839425.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82549.9,
+        "volume": 110571.698,
+        "funding_rate": 6.186e-05
+      },
+      "SOLUSDT": {
+        "price": 117.6,
+        "volume": 14335078.8,
+        "funding_rate": 7.532e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82519,
+        "market_cap": 1638124133119
+      },
+      "solana": {
+        "price": 117.77,
+        "market_cap": 60634199362
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:55:01.214741",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82659.1,
+        "volume": 221617.736,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.74,
+        "volume": 25852306.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82655.4,
+        "volume": 110189.59,
+        "funding_rate": 6.149e-05
+      },
+      "SOLUSDT": {
+        "price": 117.79,
+        "volume": 14338946.6,
+        "funding_rate": 7.547e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82541,
+        "market_cap": 1638124133119
+      },
+      "solana": {
+        "price": 117.71,
+        "market_cap": 60602738145
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:56:12.010401",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82641.9,
+        "volume": 221720.118,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.66,
+        "volume": 25830185.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82641.9,
+        "volume": 110129.223,
+        "funding_rate": 6.086e-05
+      },
+      "SOLUSDT": {
+        "price": 117.7,
+        "volume": 14333546.1,
+        "funding_rate": 7.681e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82581,
+        "market_cap": 1638124133119
+      },
+      "solana": {
+        "price": 117.79,
+        "market_cap": 60602738145
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:57:22.295840",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82660.0,
+        "volume": 221609.722,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.65,
+        "volume": 25793688.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82666.9,
+        "volume": 109564.882,
+        "funding_rate": 6.068e-05
+      },
+      "SOLUSDT": {
+        "price": 117.69,
+        "volume": 14309565.2,
+        "funding_rate": 7.67e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82623,
+        "market_cap": 1638124133119
+      },
+      "solana": {
+        "price": 117.79,
+        "market_cap": 60602738145
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:58:31.043962",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82675.3,
+        "volume": 221054.072,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.63,
+        "volume": 25745260.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82654.2,
+        "volume": 109641.515,
+        "funding_rate": 6.033e-05
+      },
+      "SOLUSDT": {
+        "price": 117.63,
+        "volume": 14235882.0,
+        "funding_rate": 7.715e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82659,
+        "market_cap": 1639591895250
+      },
+      "solana": {
+        "price": 117.83,
+        "market_cap": 60602738145
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T13:59:39.908110",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82690.5,
+        "volume": 219323.214,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.79,
+        "volume": 25687995.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82707.1,
+        "volume": 109154.37,
+        "funding_rate": 5.986e-05
+      },
+      "SOLUSDT": {
+        "price": 117.8,
+        "volume": 14223674.2,
+        "funding_rate": 7.826e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82691,
+        "market_cap": 1639591895250
+      },
+      "solana": {
+        "price": 117.8,
+        "market_cap": 60634045072
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:00:49.499398",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82682.1,
+        "volume": 218121.468,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.67,
+        "volume": 25648312.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82682.4,
+        "volume": 109182.459,
+        "funding_rate": 5.943e-05
+      },
+      "SOLUSDT": {
+        "price": 117.68,
+        "volume": 14250747.4,
+        "funding_rate": 7.844e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82708,
+        "market_cap": 1639591895250
+      },
+      "solana": {
+        "price": 117.82,
+        "market_cap": 60634045072
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:01:59.358493",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82808.2,
+        "volume": 217408.248,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.01,
+        "volume": 25591704.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82809.5,
+        "volume": 109357.451,
+        "funding_rate": 5.939e-05
+      },
+      "SOLUSDT": {
+        "price": 118.0,
+        "volume": 14207086.1,
+        "funding_rate": 7.842e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82727,
+        "market_cap": 1639591895250
+      },
+      "solana": {
+        "price": 117.85,
+        "market_cap": 60634045072
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:03:08.853039",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82833.5,
+        "volume": 216185.829,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.26,
+        "volume": 25552996.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82834.2,
+        "volume": 107293.371,
+        "funding_rate": 5.857e-05
+      },
+      "SOLUSDT": {
+        "price": 118.26,
+        "volume": 14231234.9,
+        "funding_rate": 7.712e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82726,
+        "market_cap": 1641860842072
+      },
+      "solana": {
+        "price": 117.94,
+        "market_cap": 60634045072
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:04:18.966737",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82812.4,
+        "volume": 215886.598,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.22,
+        "volume": 25535991.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82830.9,
+        "volume": 107349.934,
+        "funding_rate": 5.767e-05
+      },
+      "SOLUSDT": {
+        "price": 118.24,
+        "volume": 14230739.5,
+        "funding_rate": 7.615e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82874,
+        "market_cap": 1641860842072
+      },
+      "solana": {
+        "price": 117.94,
+        "market_cap": 60634045072
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:05:27.627091",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82723.0,
+        "volume": 215622.243,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.01,
+        "volume": 25520159.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82733.1,
+        "volume": 106530.418,
+        "funding_rate": 5.711e-05
+      },
+      "SOLUSDT": {
+        "price": 118.0,
+        "volume": 14202985.6,
+        "funding_rate": 7.671e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82869,
+        "market_cap": 1641860842072
+      },
+      "solana": {
+        "price": 118.15,
+        "market_cap": 60749315762
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:06:36.238357",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82765.0,
+        "volume": 215084.235,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.08,
+        "volume": 25512700.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82739.1,
+        "volume": 106308.384,
+        "funding_rate": 5.679e-05
+      },
+      "SOLUSDT": {
+        "price": 118.02,
+        "volume": 14212611.7,
+        "funding_rate": 7.649e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82816,
+        "market_cap": 1641860842072
+      },
+      "solana": {
+        "price": 118.17,
+        "market_cap": 60749315762
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:07:45.068023",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82708.1,
+        "volume": 214649.743,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.07,
+        "volume": 25476777.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82710.1,
+        "volume": 106217.045,
+        "funding_rate": 5.629e-05
+      },
+      "SOLUSDT": {
+        "price": 118.06,
+        "volume": 14176226.8,
+        "funding_rate": 7.622e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82760,
+        "market_cap": 1641860842072
+      },
+      "solana": {
+        "price": 118.06,
+        "market_cap": 60749315762
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:08:54.944683",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82721.7,
+        "volume": 214435.261,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.16,
+        "volume": 25466230.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82721.3,
+        "volume": 106004.785,
+        "funding_rate": 5.575e-05
+      },
+      "SOLUSDT": {
+        "price": 118.18,
+        "volume": 14174014.4,
+        "funding_rate": 7.578e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82755,
+        "market_cap": 1642457955718
+      },
+      "solana": {
+        "price": 118.01,
+        "market_cap": 60749315762
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:10:05.499777",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82752.9,
+        "volume": 213812.158,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.24,
+        "volume": 25440035.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82755.9,
+        "volume": 106071.967,
+        "funding_rate": 5.481e-05
+      },
+      "SOLUSDT": {
+        "price": 118.25,
+        "volume": 14175883.1,
+        "funding_rate": 7.507e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82745,
+        "market_cap": 1642457955718
+      },
+      "solana": {
+        "price": 118.02,
+        "market_cap": 60729892572
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:11:15.172144",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82700.0,
+        "volume": 213188.547,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.2,
+        "volume": 25431729.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82705.8,
+        "volume": 106114.289,
+        "funding_rate": 5.435e-05
+      },
+      "SOLUSDT": {
+        "price": 118.19,
+        "volume": 14196293.3,
+        "funding_rate": 7.451e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82765,
+        "market_cap": 1642457955718
+      },
+      "solana": {
+        "price": 118.08,
+        "market_cap": 60729892572
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:12:24.058341",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82738.4,
+        "volume": 213023.402,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.94,
+        "volume": 25476440.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82735.4,
+        "volume": 105338.746,
+        "funding_rate": 5.393e-05
+      },
+      "SOLUSDT": {
+        "price": 117.91,
+        "volume": 14161679.0,
+        "funding_rate": 7.33e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82761,
+        "market_cap": 1642457955718
+      },
+      "solana": {
+        "price": 118.08,
+        "market_cap": 60729892572
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:13:32.827712",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82725.5,
+        "volume": 212603.611,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.95,
+        "volume": 25476311.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82732.2,
+        "volume": 105364.416,
+        "funding_rate": 5.379e-05
+      },
+      "SOLUSDT": {
+        "price": 117.95,
+        "volume": 14153275.9,
+        "funding_rate": 7.369e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82754,
+        "market_cap": 1642457955718
+      },
+      "solana": {
+        "price": 118.09,
+        "market_cap": 60729892572
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:14:42.961365",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82739.0,
+        "volume": 212395.112,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.0,
+        "volume": 25471092.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82743.3,
+        "volume": 104996.145,
+        "funding_rate": 5.34e-05
+      },
+      "SOLUSDT": {
+        "price": 117.99,
+        "volume": 14156001.9,
+        "funding_rate": 7.356e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82760,
+        "market_cap": 1642597750123
+      },
+      "solana": {
+        "price": 118.07,
+        "market_cap": 60746555782
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:15:52.560927",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82690.4,
+        "volume": 212156.648,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.42,
+        "volume": 25532124.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82684.6,
+        "volume": 105123.706,
+        "funding_rate": 5.285e-05
+      },
+      "SOLUSDT": {
+        "price": 117.35,
+        "volume": 14219411.3,
+        "funding_rate": 7.31e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82760,
+        "market_cap": 1642597750123
+      },
+      "solana": {
+        "price": 118.04,
+        "market_cap": 60746555782
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:17:03.944459",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82686.0,
+        "volume": 211486.092,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.48,
+        "volume": 25570168.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82680.0,
+        "volume": 105058.085,
+        "funding_rate": 5.234e-05
+      },
+      "SOLUSDT": {
+        "price": 117.43,
+        "volume": 14217794.6,
+        "funding_rate": 7.415e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82717,
+        "market_cap": 1642597750123
+      },
+      "solana": {
+        "price": 117.87,
+        "market_cap": 60746555782
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:18:13.528168",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82660.0,
+        "volume": 211165.543,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.39,
+        "volume": 25565153.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82676.7,
+        "volume": 104451.524,
+        "funding_rate": 5.209e-05
+      },
+      "SOLUSDT": {
+        "price": 117.4,
+        "volume": 14219604.7,
+        "funding_rate": 7.446e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82715,
+        "market_cap": 1642597750123
+      },
+      "solana": {
+        "price": 117.76,
+        "market_cap": 60746555782
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:19:23.743501",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82727.6,
+        "volume": 210869.632,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.48,
+        "volume": 25550674.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82736.1,
+        "volume": 104515.778,
+        "funding_rate": 5.201e-05
+      },
+      "SOLUSDT": {
+        "price": 117.51,
+        "volume": 14218451.9,
+        "funding_rate": 7.429e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82711,
+        "market_cap": 1641656108037
+      },
+      "solana": {
+        "price": 117.72,
+        "market_cap": 60746555782
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:20:32.472822",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82795.7,
+        "volume": 210491.488,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.5,
+        "volume": 25415026.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82791.6,
+        "volume": 104161.174,
+        "funding_rate": 5.219e-05
+      },
+      "SOLUSDT": {
+        "price": 117.52,
+        "volume": 14081576.8,
+        "funding_rate": 7.559e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82706,
+        "market_cap": 1641656108037
+      },
+      "solana": {
+        "price": 117.67,
+        "market_cap": 60568001755
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:21:41.377029",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82799.9,
+        "volume": 210070.652,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.61,
+        "volume": 25234044.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82800.0,
+        "volume": 104025.768,
+        "funding_rate": 5.197e-05
+      },
+      "SOLUSDT": {
+        "price": 117.63,
+        "volume": 14060073.5,
+        "funding_rate": 7.625e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82726,
+        "market_cap": 1641656108037
+      },
+      "solana": {
+        "price": 117.65,
+        "market_cap": 60568001755
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:22:50.281075",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82830.9,
+        "volume": 209773.48,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.68,
+        "volume": 25184136.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82848.1,
+        "volume": 103970.546,
+        "funding_rate": 5.167e-05
+      },
+      "SOLUSDT": {
+        "price": 117.71,
+        "volume": 14072978.5,
+        "funding_rate": 7.719e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82793,
+        "market_cap": 1641656108037
+      },
+      "solana": {
+        "price": 117.69,
+        "market_cap": 60568001755
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:23:59.091652",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82859.9,
+        "volume": 209642.542,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.73,
+        "volume": 25146410.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82860.9,
+        "volume": 103861.421,
+        "funding_rate": 5.144e-05
+      },
+      "SOLUSDT": {
+        "price": 117.83,
+        "volume": 14080489.0,
+        "funding_rate": 7.78e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82809,
+        "market_cap": 1643519505853
+      },
+      "solana": {
+        "price": 117.7,
+        "market_cap": 60568001755
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:25:08.898873",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82865.1,
+        "volume": 209074.809,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.0,
+        "volume": 25116688.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82860.0,
+        "volume": 103950.455,
+        "funding_rate": 5.033e-05
+      },
+      "SOLUSDT": {
+        "price": 118.01,
+        "volume": 14110004.2,
+        "funding_rate": 7.634e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82847,
+        "market_cap": 1643519505853
+      },
+      "solana": {
+        "price": 117.73,
+        "market_cap": 60564244748
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:26:18.444264",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82849.1,
+        "volume": 208886.076,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.13,
+        "volume": 25122278.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82860.0,
+        "volume": 103616.786,
+        "funding_rate": 5.03e-05
+      },
+      "SOLUSDT": {
+        "price": 118.12,
+        "volume": 14043654.7,
+        "funding_rate": 7.565e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82874,
+        "market_cap": 1643519505853
+      },
+      "solana": {
+        "price": 117.83,
+        "market_cap": 60564244748
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:27:27.319395",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82857.1,
+        "volume": 208731.578,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.04,
+        "volume": 25089661.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82856.1,
+        "volume": 103327.599,
+        "funding_rate": 4.993e-05
+      },
+      "SOLUSDT": {
+        "price": 118.03,
+        "volume": 14046998.7,
+        "funding_rate": 7.546e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82896,
+        "market_cap": 1643519505853
+      },
+      "solana": {
+        "price": 117.91,
+        "market_cap": 60564244748
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:28:37.233322",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82845.1,
+        "volume": 208563.906,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.88,
+        "volume": 25071664.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82850.0,
+        "volume": 103344.229,
+        "funding_rate": 4.934e-05
+      },
+      "SOLUSDT": {
+        "price": 117.88,
+        "volume": 14018308.8,
+        "funding_rate": 7.6e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82873,
+        "market_cap": 1645125806463
+      },
+      "solana": {
+        "price": 117.9,
+        "market_cap": 60564244748
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:29:47.089973",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82833.5,
+        "volume": 208393.327,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.91,
+        "volume": 25009873.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82834.4,
+        "volume": 102942.886,
+        "funding_rate": 4.889e-05
+      },
+      "SOLUSDT": {
+        "price": 117.94,
+        "volume": 14020939.0,
+        "funding_rate": 7.541e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82877,
+        "market_cap": 1645125806463
+      },
+      "solana": {
+        "price": 117.87,
+        "market_cap": 60668732178
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:30:55.962686",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82817.2,
+        "volume": 208096.085,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.74,
+        "volume": 24973378.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82793.8,
+        "volume": 102642.979,
+        "funding_rate": 4.853e-05
+      },
+      "SOLUSDT": {
+        "price": 117.71,
+        "volume": 13961525.7,
+        "funding_rate": 7.514e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82867,
+        "market_cap": 1645125806463
+      },
+      "solana": {
+        "price": 117.86,
+        "market_cap": 60668732178
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:32:04.700047",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82792.7,
+        "volume": 207576.376,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.56,
+        "volume": 24831467.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82798.3,
+        "volume": 102400.66,
+        "funding_rate": 4.746e-05
+      },
+      "SOLUSDT": {
+        "price": 117.62,
+        "volume": 13952963.4,
+        "funding_rate": 7.272e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82844,
+        "market_cap": 1645125806463
+      },
+      "solana": {
+        "price": 117.86,
+        "market_cap": 60668732178
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:33:13.775815",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82843.3,
+        "volume": 207179.812,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.75,
+        "volume": 24793319.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82836.1,
+        "volume": 101890.779,
+        "funding_rate": 4.693e-05
+      },
+      "SOLUSDT": {
+        "price": 117.72,
+        "volume": 13941517.0,
+        "funding_rate": 7.284e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82833,
+        "market_cap": 1645125806463
+      },
+      "solana": {
+        "price": 117.85,
+        "market_cap": 60668732178
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:34:22.693239",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82772.3,
+        "volume": 207045.141,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.59,
+        "volume": 24776162.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82770.7,
+        "volume": 101942.909,
+        "funding_rate": 4.634e-05
+      },
+      "SOLUSDT": {
+        "price": 117.58,
+        "volume": 13933265.7,
+        "funding_rate": 7.221e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82805,
+        "market_cap": 1643508784363
+      },
+      "solana": {
+        "price": 117.73,
+        "market_cap": 60582303926
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:35:32.269647",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82771.0,
+        "volume": 206471.951,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.62,
+        "volume": 24738288.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82766.8,
+        "volume": 101527.19,
+        "funding_rate": 4.61e-05
+      },
+      "SOLUSDT": {
+        "price": 117.61,
+        "volume": 13946191.2,
+        "funding_rate": 7.239e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82827,
+        "market_cap": 1643508784363
+      },
+      "solana": {
+        "price": 117.76,
+        "market_cap": 60582303926
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:36:43.380694",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82795.1,
+        "volume": 206255.207,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.75,
+        "volume": 24713606.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82798.3,
+        "volume": 101138.722,
+        "funding_rate": 4.579e-05
+      },
+      "SOLUSDT": {
+        "price": 117.75,
+        "volume": 13922768.9,
+        "funding_rate": 7.211e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82797,
+        "market_cap": 1643508784363
+      },
+      "solana": {
+        "price": 117.71,
+        "market_cap": 60582303926
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:37:53.755563",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82855.4,
+        "volume": 205607.291,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.86,
+        "volume": 24699378.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82856.7,
+        "volume": 101179.222,
+        "funding_rate": 4.561e-05
+      },
+      "SOLUSDT": {
+        "price": 117.87,
+        "volume": 13883919.5,
+        "funding_rate": 7.229e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82779,
+        "market_cap": 1643508784363
+      },
+      "solana": {
+        "price": 117.68,
+        "market_cap": 60582303926
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:39:02.471230",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82910.1,
+        "volume": 204594.418,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.93,
+        "volume": 24670212.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82906.3,
+        "volume": 101266.726,
+        "funding_rate": 4.474e-05
+      },
+      "SOLUSDT": {
+        "price": 117.95,
+        "volume": 13888419.2,
+        "funding_rate": 7.174e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82791,
+        "market_cap": 1643087520960
+      },
+      "solana": {
+        "price": 117.69,
+        "market_cap": 60582303926
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:40:12.409106",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82889.8,
+        "volume": 204392.643,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.88,
+        "volume": 24644431.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82851.4,
+        "volume": 100472.513,
+        "funding_rate": 4.439e-05
+      },
+      "SOLUSDT": {
+        "price": 117.87,
+        "volume": 13895428.3,
+        "funding_rate": 7.077e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82801,
+        "market_cap": 1643087520960
+      },
+      "solana": {
+        "price": 117.73,
+        "market_cap": 60578218189
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:41:22.476979",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82880.0,
+        "volume": 203855.94,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.96,
+        "volume": 24634929.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82885.9,
+        "volume": 100492.379,
+        "funding_rate": 4.422e-05
+      },
+      "SOLUSDT": {
+        "price": 117.94,
+        "volume": 13837749.3,
+        "funding_rate": 7.084e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82878,
+        "market_cap": 1643087520960
+      },
+      "solana": {
+        "price": 117.84,
+        "market_cap": 60578218189
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:42:31.463444",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82937.3,
+        "volume": 203520.529,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.13,
+        "volume": 24615859.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82955.0,
+        "volume": 100015.298,
+        "funding_rate": 4.396e-05
+      },
+      "SOLUSDT": {
+        "price": 118.24,
+        "volume": 13862367.4,
+        "funding_rate": 7.079e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82888,
+        "market_cap": 1643087520960
+      },
+      "solana": {
+        "price": 117.93,
+        "market_cap": 60578218189
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:43:40.221515",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82934.3,
+        "volume": 203315.928,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.13,
+        "volume": 24644686.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82936.4,
+        "volume": 100077.293,
+        "funding_rate": 4.36e-05
+      },
+      "SOLUSDT": {
+        "price": 118.11,
+        "volume": 13861155.3,
+        "funding_rate": 6.89e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82916,
+        "market_cap": 1645184525816
+      },
+      "solana": {
+        "price": 117.94,
+        "market_cap": 60578218189
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:44:51.412911",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82873.6,
+        "volume": 203200.083,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.02,
+        "volume": 24648662.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82872.2,
+        "volume": 99837.225,
+        "funding_rate": 4.314e-05
+      },
+      "SOLUSDT": {
+        "price": 118.03,
+        "volume": 13867049.3,
+        "funding_rate": 6.835e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82947,
+        "market_cap": 1645184525816
+      },
+      "solana": {
+        "price": 118.07,
+        "market_cap": 60752472732
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:46:01.384574",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82876.8,
+        "volume": 202953.389,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.93,
+        "volume": 24592985.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82860.0,
+        "volume": 99506.276,
+        "funding_rate": 4.236e-05
+      },
+      "SOLUSDT": {
+        "price": 117.91,
+        "volume": 13853801.0,
+        "funding_rate": 6.782e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82950,
+        "market_cap": 1645184525816
+      },
+      "solana": {
+        "price": 118.1,
+        "market_cap": 60752472732
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:47:11.501904",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82885.3,
+        "volume": 201055.264,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.99,
+        "volume": 24551728.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82891.9,
+        "volume": 98962.671,
+        "funding_rate": 4.231e-05
+      },
+      "SOLUSDT": {
+        "price": 118.01,
+        "volume": 13835306.8,
+        "funding_rate": 6.774e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82913,
+        "market_cap": 1645184525816
+      },
+      "solana": {
+        "price": 118.04,
+        "market_cap": 60752472732
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:48:21.367526",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82934.3,
+        "volume": 200670.628,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.09,
+        "volume": 24543028.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82928.3,
+        "volume": 98401.668,
+        "funding_rate": 4.22e-05
+      },
+      "SOLUSDT": {
+        "price": 118.11,
+        "volume": 13845851.6,
+        "funding_rate": 6.815e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82885,
+        "market_cap": 1645184525816
+      },
+      "solana": {
+        "price": 118.01,
+        "market_cap": 60752472732
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:49:30.091546",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82936.5,
+        "volume": 200445.029,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.12,
+        "volume": 24527498.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82917.9,
+        "volume": 98430.672,
+        "funding_rate": 4.15e-05
+      },
+      "SOLUSDT": {
+        "price": 118.07,
+        "volume": 13832045.0,
+        "funding_rate": 6.75e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82899,
+        "market_cap": 1645153412634
+      },
+      "solana": {
+        "price": 118.04,
+        "market_cap": 60752472732
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:50:38.979365",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82900.0,
+        "volume": 199666.931,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.05,
+        "volume": 24503052.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82888.8,
+        "volume": 97639.77,
+        "funding_rate": 4.111e-05
+      },
+      "SOLUSDT": {
+        "price": 118.05,
+        "volume": 13818838.0,
+        "funding_rate": 6.773e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82921,
+        "market_cap": 1645153412634
+      },
+      "solana": {
+        "price": 118.1,
+        "market_cap": 60748258585
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:51:48.196678",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82922.0,
+        "volume": 198653.108,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.09,
+        "volume": 24450716.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82922.8,
+        "volume": 97145.266,
+        "funding_rate": 4.071e-05
+      },
+      "SOLUSDT": {
+        "price": 118.14,
+        "volume": 13808243.9,
+        "funding_rate": 6.732e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82944,
+        "market_cap": 1645153412634
+      },
+      "solana": {
+        "price": 118.09,
+        "market_cap": 60748258585
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:52:58.197040",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82952.2,
+        "volume": 198026.06,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.31,
+        "volume": 24411567.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82964.1,
+        "volume": 96378.04,
+        "funding_rate": 4.045e-05
+      },
+      "SOLUSDT": {
+        "price": 118.28,
+        "volume": 13784882.1,
+        "funding_rate": 6.64e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82943,
+        "market_cap": 1645153412634
+      },
+      "solana": {
+        "price": 118.1,
+        "market_cap": 60748258585
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:54:07.449801",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82983.0,
+        "volume": 195946.308,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.31,
+        "volume": 24278670.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82962.8,
+        "volume": 95976.742,
+        "funding_rate": 3.997e-05
+      },
+      "SOLUSDT": {
+        "price": 118.3,
+        "volume": 13773470.4,
+        "funding_rate": 6.608e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82956,
+        "market_cap": 1646165656972
+      },
+      "solana": {
+        "price": 118.12,
+        "market_cap": 60748258585
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:55:16.225838",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82939.2,
+        "volume": 195376.007,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.15,
+        "volume": 24264198.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82935.8,
+        "volume": 95730.294,
+        "funding_rate": 3.96e-05
+      },
+      "SOLUSDT": {
+        "price": 118.15,
+        "volume": 13768368.4,
+        "funding_rate": 6.619e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82989,
+        "market_cap": 1646165656972
+      },
+      "solana": {
+        "price": 118.27,
+        "market_cap": 60790307352
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:56:25.604110",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82965.0,
+        "volume": 194440.78,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.17,
+        "volume": 24226451.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82943.6,
+        "volume": 95454.155,
+        "funding_rate": 3.908e-05
+      },
+      "SOLUSDT": {
+        "price": 118.16,
+        "volume": 13744549.0,
+        "funding_rate": 6.644e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82988,
+        "market_cap": 1646165656972
+      },
+      "solana": {
+        "price": 118.27,
+        "market_cap": 60790307352
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:57:35.224646",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82950.0,
+        "volume": 193991.494,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.21,
+        "volume": 24200890.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82956.7,
+        "volume": 95469.624,
+        "funding_rate": 3.877e-05
+      },
+      "SOLUSDT": {
+        "price": 118.22,
+        "volume": 13752378.9,
+        "funding_rate": 6.63e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82963,
+        "market_cap": 1646165656972
+      },
+      "solana": {
+        "price": 118.26,
+        "market_cap": 60790307352
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:58:45.178381",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82910.7,
+        "volume": 193679.604,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.14,
+        "volume": 24173119.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82908.0,
+        "volume": 94772.727,
+        "funding_rate": 3.835e-05
+      },
+      "SOLUSDT": {
+        "price": 118.13,
+        "volume": 13716445.5,
+        "funding_rate": 6.648e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82963,
+        "market_cap": 1646606100644
+      },
+      "solana": {
+        "price": 118.2,
+        "market_cap": 60790307352
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T14:59:55.854036",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82867.6,
+        "volume": 193276.794,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.04,
+        "volume": 24109616.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82871.6,
+        "volume": 94818.274,
+        "funding_rate": 3.793e-05
+      },
+      "SOLUSDT": {
+        "price": 118.05,
+        "volume": 13675153.6,
+        "funding_rate": 6.589e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82932,
+        "market_cap": 1646606100644
+      },
+      "solana": {
+        "price": 118.18,
+        "market_cap": 60825135124
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:01:04.792081",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82858.7,
+        "volume": 192303.185,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 118.0,
+        "volume": 23997330.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82859.8,
+        "volume": 94493.817,
+        "funding_rate": 3.703e-05
+      },
+      "SOLUSDT": {
+        "price": 117.99,
+        "volume": 13638138.9,
+        "funding_rate": 6.466e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82912,
+        "market_cap": 1646606100644
+      },
+      "solana": {
+        "price": 118.15,
+        "market_cap": 60825135124
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:02:15.578886",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82802.8,
+        "volume": 191076.168,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.92,
+        "volume": 23871018.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82800.0,
+        "volume": 93818.811,
+        "funding_rate": 3.686e-05
+      },
+      "SOLUSDT": {
+        "price": 117.92,
+        "volume": 13533743.7,
+        "funding_rate": 6.415e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82901,
+        "market_cap": 1646606100644
+      },
+      "solana": {
+        "price": 118.1,
+        "market_cap": 60825135124
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:03:25.057060",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82795.8,
+        "volume": 190059.7,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.74,
+        "volume": 23639276.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82784.0,
+        "volume": 92832.07,
+        "funding_rate": 3.703e-05
+      },
+      "SOLUSDT": {
+        "price": 117.78,
+        "volume": 13540475.7,
+        "funding_rate": 6.476e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82867,
+        "market_cap": 1644674373363
+      },
+      "solana": {
+        "price": 118.04,
+        "market_cap": 60825135124
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:04:34.238614",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82769.3,
+        "volume": 189348.514,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.62,
+        "volume": 23552438.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82770.2,
+        "volume": 92857.825,
+        "funding_rate": 3.665e-05
+      },
+      "SOLUSDT": {
+        "price": 117.64,
+        "volume": 13315030.4,
+        "funding_rate": 6.445e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82803,
+        "market_cap": 1644674373363
+      },
+      "solana": {
+        "price": 117.97,
+        "market_cap": 60825135124
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:05:43.680660",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82778.8,
+        "volume": 187485.311,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.7,
+        "volume": 23479925.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82778.4,
+        "volume": 91974.115,
+        "funding_rate": 3.622e-05
+      },
+      "SOLUSDT": {
+        "price": 117.7,
+        "volume": 13206835.2,
+        "funding_rate": 6.431e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82794,
+        "market_cap": 1644674373363
+      },
+      "solana": {
+        "price": 117.89,
+        "market_cap": 60697940583
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:06:52.549256",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82799.0,
+        "volume": 186349.593,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.75,
+        "volume": 23408305.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82800.0,
+        "volume": 91751.4,
+        "funding_rate": 3.587e-05
+      },
+      "SOLUSDT": {
+        "price": 117.78,
+        "volume": 13184434.7,
+        "funding_rate": 6.48e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82785,
+        "market_cap": 1644674373363
+      },
+      "solana": {
+        "price": 117.83,
+        "market_cap": 60697940583
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:08:02.154315",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82785.0,
+        "volume": 185499.602,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.64,
+        "volume": 23295870.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82780.0,
+        "volume": 91510.111,
+        "funding_rate": 3.506e-05
+      },
+      "SOLUSDT": {
+        "price": 117.67,
+        "volume": 13188480.0,
+        "funding_rate": 6.473e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82791,
+        "market_cap": 1644674373363
+      },
+      "solana": {
+        "price": 117.81,
+        "market_cap": 60697940583
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:09:11.045638",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82758.6,
+        "volume": 184536.364,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.59,
+        "volume": 23238091.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82755.7,
+        "volume": 91061.594,
+        "funding_rate": 3.479e-05
+      },
+      "SOLUSDT": {
+        "price": 117.59,
+        "volume": 13108712.9,
+        "funding_rate": 6.379e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82791,
+        "market_cap": 1643052495017
+      },
+      "solana": {
+        "price": 117.79,
+        "market_cap": 60697940583
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:10:20.093943",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82700.0,
+        "volume": 183996.797,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.61,
+        "volume": 23185531.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82695.5,
+        "volume": 91173.342,
+        "funding_rate": 3.424e-05
+      },
+      "SOLUSDT": {
+        "price": 117.6,
+        "volume": 13090064.9,
+        "funding_rate": 6.409e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82787,
+        "market_cap": 1643052495017
+      },
+      "solana": {
+        "price": 117.79,
+        "market_cap": 60616537375
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:11:30.806737",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82737.1,
+        "volume": 183664.104,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.6,
+        "volume": 23168441.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82744.9,
+        "volume": 90698.728,
+        "funding_rate": 3.381e-05
+      },
+      "SOLUSDT": {
+        "price": 117.6,
+        "volume": 13031851.6,
+        "funding_rate": 6.382e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82740,
+        "market_cap": 1643052495017
+      },
+      "solana": {
+        "price": 117.73,
+        "market_cap": 60616537375
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:12:42.007188",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82740.0,
+        "volume": 183047.257,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.62,
+        "volume": 23116110.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82746.6,
+        "volume": 90424.46,
+        "funding_rate": 3.354e-05
+      },
+      "SOLUSDT": {
+        "price": 117.7,
+        "volume": 12981235.4,
+        "funding_rate": 6.452e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82708,
+        "market_cap": 1643052495017
+      },
+      "solana": {
+        "price": 117.68,
+        "market_cap": 60616537375
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:13:52.349815",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82727.8,
+        "volume": 181584.275,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.6,
+        "volume": 23050902.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82734.1,
+        "volume": 89850.029,
+        "funding_rate": 3.367e-05
+      },
+      "SOLUSDT": {
+        "price": 117.62,
+        "volume": 12847987.5,
+        "funding_rate": 6.488e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82716,
+        "market_cap": 1641680863068
+      },
+      "solana": {
+        "price": 117.64,
+        "market_cap": 60616537375
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:15:01.249719",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82672.2,
+        "volume": 180336.083,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.58,
+        "volume": 22763130.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82696.5,
+        "volume": 89902.758,
+        "funding_rate": 3.299e-05
+      },
+      "SOLUSDT": {
+        "price": 117.66,
+        "volume": 12798651.5,
+        "funding_rate": 6.52e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82720,
+        "market_cap": 1641680863068
+      },
+      "solana": {
+        "price": 117.69,
+        "market_cap": 60536181620
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:16:10.148445",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82692.5,
+        "volume": 177854.205,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.61,
+        "volume": 22314517.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82700.1,
+        "volume": 89173.692,
+        "funding_rate": 3.314e-05
+      },
+      "SOLUSDT": {
+        "price": 117.64,
+        "volume": 12676845.9,
+        "funding_rate": 6.733e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82744,
+        "market_cap": 1641680863068
+      },
+      "solana": {
+        "price": 117.67,
+        "market_cap": 60536181620
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:17:19.330796",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82671.6,
+        "volume": 177298.674,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.62,
+        "volume": 22205716.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82693.6,
+        "volume": 88986.129,
+        "funding_rate": 3.281e-05
+      },
+      "SOLUSDT": {
+        "price": 117.71,
+        "volume": 12583283.4,
+        "funding_rate": 6.706e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82691,
+        "market_cap": 1641680863068
+      },
+      "solana": {
+        "price": 117.67,
+        "market_cap": 60536181620
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:18:28.026696",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82724.4,
+        "volume": 176844.626,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.77,
+        "volume": 22136335.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82725.8,
+        "volume": 89002.368,
+        "funding_rate": 3.287e-05
+      },
+      "SOLUSDT": {
+        "price": 117.74,
+        "volume": 12589153.5,
+        "funding_rate": 6.772e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82703,
+        "market_cap": 1641680863068
+      },
+      "solana": {
+        "price": 117.62,
+        "market_cap": 60536181620
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:19:38.006550",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82721.2,
+        "volume": 176426.888,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.78,
+        "volume": 22073186.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82723.7,
+        "volume": 88213.425,
+        "funding_rate": 3.317e-05
+      },
+      "SOLUSDT": {
+        "price": 117.8,
+        "volume": 12490655.0,
+        "funding_rate": 6.853e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82728,
+        "market_cap": 1641413635706
+      },
+      "solana": {
+        "price": 117.66,
+        "market_cap": 60536181620
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:20:47.569026",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82707.2,
+        "volume": 175941.47,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.64,
+        "volume": 21989131.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82712.5,
+        "volume": 87608.746,
+        "funding_rate": 3.34e-05
+      },
+      "SOLUSDT": {
+        "price": 117.66,
+        "volume": 12447206.8,
+        "funding_rate": 6.899e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82722,
+        "market_cap": 1641413635706
+      },
+      "solana": {
+        "price": 117.68,
+        "market_cap": 60554332091
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:21:57.195837",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82698.7,
+        "volume": 175364.566,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.56,
+        "volume": 21934294.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82676.8,
+        "volume": 87385.484,
+        "funding_rate": 3.331e-05
+      },
+      "SOLUSDT": {
+        "price": 117.57,
+        "volume": 12408910.3,
+        "funding_rate": 6.929e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82732,
+        "market_cap": 1641413635706
+      },
+      "solana": {
+        "price": 117.74,
+        "market_cap": 60554332091
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:23:06.491838",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82700.0,
+        "volume": 174707.019,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.64,
+        "volume": 21818764.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82710.7,
+        "volume": 87146.469,
+        "funding_rate": 3.252e-05
+      },
+      "SOLUSDT": {
+        "price": 117.63,
+        "volume": 12370892.6,
+        "funding_rate": 6.904e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82733,
+        "market_cap": 1641413635706
+      },
+      "solana": {
+        "price": 117.72,
+        "market_cap": 60554332091
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:24:15.366044",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82703.2,
+        "volume": 174488.713,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.55,
+        "volume": 21684877.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82704.0,
+        "volume": 86827.505,
+        "funding_rate": 3.238e-05
+      },
+      "SOLUSDT": {
+        "price": 117.54,
+        "volume": 12259835.7,
+        "funding_rate": 6.931e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82735,
+        "market_cap": 1642053408936
+      },
+      "solana": {
+        "price": 117.68,
+        "market_cap": 60554332091
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:25:24.094152",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82691.6,
+        "volume": 173895.593,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.56,
+        "volume": 21591267.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82697.7,
+        "volume": 86844.237,
+        "funding_rate": 3.236e-05
+      },
+      "SOLUSDT": {
+        "price": 117.59,
+        "volume": 12263970.8,
+        "funding_rate": 6.945e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82705,
+        "market_cap": 1642053408936
+      },
+      "solana": {
+        "price": 117.65,
+        "market_cap": 60555258557
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:26:33.743523",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82695.6,
+        "volume": 172426.961,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.49,
+        "volume": 21445566.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82682.2,
+        "volume": 86259.844,
+        "funding_rate": 3.201e-05
+      },
+      "SOLUSDT": {
+        "price": 117.46,
+        "volume": 12064392.6,
+        "funding_rate": 7.001e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82705,
+        "market_cap": 1642053408936
+      },
+      "solana": {
+        "price": 117.64,
+        "market_cap": 60555258557
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:27:49.958906",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82594.5,
+        "volume": 171599.059,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.31,
+        "volume": 21406190.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82599.9,
+        "volume": 85586.226,
+        "funding_rate": 3.135e-05
+      },
+      "SOLUSDT": {
+        "price": 117.34,
+        "volume": 12034033.0,
+        "funding_rate": 6.927e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82702,
+        "market_cap": 1642053408936
+      },
+      "solana": {
+        "price": 117.61,
+        "market_cap": 60555258557
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:28:58.883381",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82600.0,
+        "volume": 170990.893,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.37,
+        "volume": 21365425.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82605.9,
+        "volume": 85423.46,
+        "funding_rate": 3.15e-05
+      },
+      "SOLUSDT": {
+        "price": 117.38,
+        "volume": 12036079.2,
+        "funding_rate": 6.949e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82675,
+        "market_cap": 1641339466200
+      },
+      "solana": {
+        "price": 117.58,
+        "market_cap": 60555258557
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:30:07.876805",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82631.0,
+        "volume": 170151.41,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.41,
+        "volume": 21296056.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82620.1,
+        "volume": 85405.185,
+        "funding_rate": 3.168e-05
+      },
+      "SOLUSDT": {
+        "price": 117.43,
+        "volume": 11974002.2,
+        "funding_rate": 7.065e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82639,
+        "market_cap": 1641339466200
+      },
+      "solana": {
+        "price": 117.42,
+        "market_cap": 60462704305
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:31:18.370439",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82637.1,
+        "volume": 169703.793,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.52,
+        "volume": 21255538.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82669.6,
+        "volume": 85145.581,
+        "funding_rate": 3.145e-05
+      },
+      "SOLUSDT": {
+        "price": 117.55,
+        "volume": 11976559.6,
+        "funding_rate": 7.048e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82561,
+        "market_cap": 1641339466200
+      },
+      "solana": {
+        "price": 117.41,
+        "market_cap": 60462704305
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:32:28.057091",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82599.9,
+        "volume": 169530.54,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.46,
+        "volume": 21223549.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82614.4,
+        "volume": 85205.615,
+        "funding_rate": 3.181e-05
+      },
+      "SOLUSDT": {
+        "price": 117.43,
+        "volume": 11883337.4,
+        "funding_rate": 7.095e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82641,
+        "market_cap": 1641339466200
+      },
+      "solana": {
+        "price": 117.44,
+        "market_cap": 60462704305
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:33:38.133848",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82560.5,
+        "volume": 169561.205,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.37,
+        "volume": 21212647.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82562.0,
+        "volume": 85259.034,
+        "funding_rate": 3.193e-05
+      },
+      "SOLUSDT": {
+        "price": 117.38,
+        "volume": 11891406.3,
+        "funding_rate": 7.156e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82650,
+        "market_cap": 1640598857800
+      },
+      "solana": {
+        "price": 117.53,
+        "market_cap": 60462704305
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:34:47.035435",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82562.2,
+        "volume": 169192.578,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.38,
+        "volume": 21191668.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82559.0,
+        "volume": 84702.941,
+        "funding_rate": 3.197e-05
+      },
+      "SOLUSDT": {
+        "price": 117.39,
+        "volume": 11833437.6,
+        "funding_rate": 7.199e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82586,
+        "market_cap": 1640598857800
+      },
+      "solana": {
+        "price": 117.37,
+        "market_cap": 60463962929
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:35:57.839207",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82544.1,
+        "volume": 168900.523,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.38,
+        "volume": 21146702.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82550.0,
+        "volume": 84274.898,
+        "funding_rate": 3.199e-05
+      },
+      "SOLUSDT": {
+        "price": 117.39,
+        "volume": 11730927.9,
+        "funding_rate": 7.238e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82556,
+        "market_cap": 1640598857800
+      },
+      "solana": {
+        "price": 117.37,
+        "market_cap": 60463962929
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:37:08.181474",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82638.6,
+        "volume": 166088.439,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.59,
+        "volume": 20919604.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82655.8,
+        "volume": 84013.002,
+        "funding_rate": 3.231e-05
+      },
+      "SOLUSDT": {
+        "price": 117.59,
+        "volume": 11673803.8,
+        "funding_rate": 7.462e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82560,
+        "market_cap": 1640598857800
+      },
+      "solana": {
+        "price": 117.36,
+        "market_cap": 60463962929
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:38:17.615964",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82567.4,
+        "volume": 165239.277,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.48,
+        "volume": 20819889.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82590.5,
+        "volume": 83493.77,
+        "funding_rate": 3.183e-05
+      },
+      "SOLUSDT": {
+        "price": 117.52,
+        "volume": 11595585.9,
+        "funding_rate": 7.454e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82545,
+        "market_cap": 1640598857800
+      },
+      "solana": {
+        "price": 117.39,
+        "market_cap": 60463962929
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:39:26.478505",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82566.6,
+        "volume": 164920.732,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.5,
+        "volume": 20771910.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82562.3,
+        "volume": 83196.018,
+        "funding_rate": 3.174e-05
+      },
+      "SOLUSDT": {
+        "price": 117.54,
+        "volume": 11598841.0,
+        "funding_rate": 7.551e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82592,
+        "market_cap": 1638709680393
+      },
+      "solana": {
+        "price": 117.45,
+        "market_cap": 60436898765
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:40:35.247793",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82559.9,
+        "volume": 164576.204,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.5,
+        "volume": 20742945.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82554.6,
+        "volume": 83255.779,
+        "funding_rate": 3.162e-05
+      },
+      "SOLUSDT": {
+        "price": 117.54,
+        "volume": 11478749.7,
+        "funding_rate": 7.625e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82566,
+        "market_cap": 1638709680393
+      },
+      "solana": {
+        "price": 117.44,
+        "market_cap": 60436898765
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:41:44.261241",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82551.8,
+        "volume": 164002.824,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.45,
+        "volume": 20717751.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82553.7,
+        "volume": 82941.217,
+        "funding_rate": 3.175e-05
+      },
+      "SOLUSDT": {
+        "price": 117.5,
+        "volume": 11440204.7,
+        "funding_rate": 7.737e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82565,
+        "market_cap": 1638709680393
+      },
+      "solana": {
+        "price": 117.44,
+        "market_cap": 60436898765
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:42:53.132098",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82414.5,
+        "volume": 163808.698,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.35,
+        "volume": 20694964.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82409.9,
+        "volume": 83375.325,
+        "funding_rate": 3.188e-05
+      },
+      "SOLUSDT": {
+        "price": 117.34,
+        "volume": 11401901.6,
+        "funding_rate": 7.813e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82546,
+        "market_cap": 1638709680393
+      },
+      "solana": {
+        "price": 117.42,
+        "market_cap": 60436898765
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:44:02.016051",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82448.4,
+        "volume": 163826.349,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.27,
+        "volume": 20602716.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82455.4,
+        "volume": 83568.941,
+        "funding_rate": 3.247e-05
+      },
+      "SOLUSDT": {
+        "price": 117.3,
+        "volume": 11433658.8,
+        "funding_rate": 7.993e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82537,
+        "market_cap": 1638142502949
+      },
+      "solana": {
+        "price": 117.41,
+        "market_cap": 60436898765
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:45:10.960972",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82349.9,
+        "volume": 163332.478,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.18,
+        "volume": 20592248.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82365.7,
+        "volume": 82816.274,
+        "funding_rate": 3.266e-05
+      },
+      "SOLUSDT": {
+        "price": 117.23,
+        "volume": 11398417.2,
+        "funding_rate": 8.181e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82514,
+        "market_cap": 1638142502949
+      },
+      "solana": {
+        "price": 117.22,
+        "market_cap": 60411299193
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:46:20.128805",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82471.9,
+        "volume": 163217.713,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.34,
+        "volume": 20572596.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82461.7,
+        "volume": 82971.476,
+        "funding_rate": 3.285e-05
+      },
+      "SOLUSDT": {
+        "price": 117.36,
+        "volume": 11403740.9,
+        "funding_rate": 8.211e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82395,
+        "market_cap": 1638142502949
+      },
+      "solana": {
+        "price": 117.2,
+        "market_cap": 60411299193
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:47:29.024105",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82470.0,
+        "volume": 163172.068,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.28,
+        "volume": 20555662.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82471.9,
+        "volume": 82655.096,
+        "funding_rate": 3.302e-05
+      },
+      "SOLUSDT": {
+        "price": 117.29,
+        "volume": 11359206.8,
+        "funding_rate": 8.3e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82382,
+        "market_cap": 1638142502949
+      },
+      "solana": {
+        "price": 117.18,
+        "market_cap": 60411299193
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:48:41.074715",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82464.8,
+        "volume": 162845.742,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.26,
+        "volume": 20526631.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82460.9,
+        "volume": 82491.979,
+        "funding_rate": 3.275e-05
+      },
+      "SOLUSDT": {
+        "price": 117.27,
+        "volume": 11310458.7,
+        "funding_rate": 8.305e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82420,
+        "market_cap": 1635642685558
+      },
+      "solana": {
+        "price": 117.24,
+        "market_cap": 60411299193
+      }
+    }
+  },
+  {
+    "timestamp": "2025-04-05T15:49:50.469072",
+    "binance": {
+      "BTCUSDT": {
+        "price": 82483.2,
+        "volume": 162094.316,
+        "funding_rate": 0.0
+      },
+      "SOLUSDT": {
+        "price": 117.32,
+        "volume": 20470794.0,
+        "funding_rate": 0.0
+      }
+    },
+    "bybit": {
+      "BTCUSDT": {
+        "price": 82488.6,
+        "volume": 82543.272,
+        "funding_rate": 3.323e-05
+      },
+      "SOLUSDT": {
+        "price": 117.36,
+        "volume": 11278212.1,
+        "funding_rate": 8.359e-05
+      }
+    },
+    "coingecko": {
+      "bitcoin": {
+        "price": 82452,
+        "market_cap": 1635642685558
+      },
+      "solana": {
+        "price": 117.3,
+        "market_cap": 60340516432
+      }
+    }
+  }
+]

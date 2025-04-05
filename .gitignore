@@ -1,0 +1,13 @@
+# Конфиденциальные данные
+config/secrets.env
+config/*.json
+README.md
+
+# Временные файлы
+data/raw/*
+*.log
+
+# IDE и системные
+.idea/
+__pycache__/
+*.pyc
